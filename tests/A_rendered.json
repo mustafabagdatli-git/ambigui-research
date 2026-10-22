@@ -1,0 +1,962 @@
+{
+ "direct_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of 2 to 20",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   251,
+   251
+  ],
+  "V5": false
+ },
+ "direct_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 65.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Now with Friday reviews",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   250,
+   251,
+   248
+  ],
+  "V5": false
+ },
+ "direct_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for teams of 2 to 12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "direct_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   253,
+   248
+  ],
+  "V5": true
+ },
+ "direct_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "direct_claude-haiku-5.5_5.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Iowan Old Style\", \"Palatino Linotype\", Palatino, serif",
+  "h1size": 65.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for teams of 2 to 12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "direct_claude-haiku-5.5_6.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Iowan Old Style\", \"Times New Roman\", serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   249,
+   245,
+   238
+  ],
+  "V5": true
+ },
+ "direct_claude-haiku-5.5_7.json": {
+  "has_h1": true,
+  "h1font": "ui-serif, Georgia, Cambria, \"Times New Roman\", serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   248,
+   243,
+   234
+  ],
+  "V5": true
+ },
+ "direct_claude-haiku-5.5_8.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, Georgia, serif",
+  "h1size": 60.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   251,
+   248,
+   242
+  ],
+  "V5": true
+ },
+ "direct_claude-haiku-5.5_9.json": {
+  "has_h1": true,
+  "h1font": "ui-serif, Georgia, \"Iowan Old Style\", \"Palatino Linotype\", serif",
+  "h1size": 68.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   242,
+   232
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of 2–12 people",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 92.16,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 88,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   247,
+   243,
+   234
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 58.88,
+  "V2": true,
+  "V3": true,
+  "V3t": "Monday planning, minus the meeting sprawl",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   242,
+   247,
+   243
+  ],
+  "V5": false
+ },
+ "direct_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   250,
+   246,
+   238
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_5.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, without the meeting marathon",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   230
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_6.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 66.56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, together",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   250,
+   245,
+   236
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_7.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Built for teams of 3–12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   242,
+   233
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_8.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 71.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "For small teams of 2–12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "direct_glm-5.3-flashx_9.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 94.72,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   247,
+   242
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 66,
+  "V2": true,
+  "V3": true,
+  "V3t": "A better week starts together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   246,
+   248,
+   243
+  ],
+  "V5": false
+ },
+ "direct_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"SF Pro Rounded\", \"Segoe UI\", system-ui, -apple-system, sans-serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   247,
+   241
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 72.96,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   246,
+   241
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 69,
+  "V2": true,
+  "V3": true,
+  "V3t": "A little more in sync",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_5.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 73,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to plan together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   247,
+   241
+  ],
+  "V5": false
+ },
+ "direct_gpt-6-luna_6.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   248,
+   244
+  ],
+  "V5": false
+ },
+ "direct_gpt-6-luna_7.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 77,
+  "V2": true,
+  "V3": true,
+  "V3t": "A better week starts together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   244,
+   239
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_8.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 74,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to plan together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   239
+  ],
+  "V5": true
+ },
+ "direct_gpt-6-luna_9.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of two to twelve",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   240,
+   228
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, serif",
+  "h1size": 81.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of two to twelve",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   240,
+   228
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "\"Helvetica Neue\", Helvetica, Arial, \"Liberation Sans\", sans-serif",
+  "h1size": 133.12,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "vs_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, \"Times New Roman\", serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of two to twelve",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   249,
+   246,
+   239
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"SF Pro Rounded\", Nunito, \"Segoe UI\", system-ui, -apple-system, sans-serif",
+  "h1size": 69.12,
+  "V2": true,
+  "V3": true,
+  "V3t": "Made for teams of 2 to 12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   233,
+   230,
+   240
+  ],
+  "V5": false
+ },
+ "vs_claude-haiku-5.5_5.json": {
+  "has_h1": true,
+  "h1font": "Didot, \"Bodoni 72\", \"Bodoni MT\", \"Playfair Display\", Georgia, \"Times New Roman\", serif",
+  "h1size": 89.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of three to nine",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   244,
+   236,
+   220
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_6.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, serif",
+  "h1size": 94.72,
+  "V2": true,
+  "V3": true,
+  "V3t": "A weekly planner for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   250,
+   245,
+   231
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_7.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of two to twelve",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   240,
+   226
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_8.json": {
+  "has_h1": true,
+  "h1font": "Didot, \"Bodoni 72\", \"Iowan Old Style\", Georgia, \"Times New Roman\", serif",
+  "h1size": 79.36,
+  "V2": true,
+  "V3": true,
+  "V3t": "The lead story",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   238,
+   225
+  ],
+  "V5": true
+ },
+ "vs_claude-haiku-5.5_9.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 115.2,
+  "V2": false,
+  "V3": true,
+  "V3t": "For teams of 2 to 12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   230,
+   0
+  ],
+  "V5": false
+ },
+ "vs_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 70.4,
+  "V2": false,
+  "V3": true,
+  "V3t": "Weekly planning for teams of 2–12",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   250,
+   243,
+   231
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 62,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, made gentle",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   237,
+   221
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", Arial, sans-serif",
+  "h1size": 88,
+  "V2": false,
+  "V3": true,
+  "V3t": "For small teams of 2–12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Fredoka, sans-serif",
+  "h1size": 62,
+  "V2": false,
+  "V3": true,
+  "V3t": "For small teams of 2–12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   248,
+   236
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "\"IBM Plex Mono\", \"JetBrains Mono\", \"Courier New\", monospace",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of 2–12 who ship",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   242,
+   239,
+   233
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_5.json": {
+  "has_h1": true,
+  "h1font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 58,
+  "V2": true,
+  "V3": true,
+  "V3t": "✦ New: Weekly retro templates",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "vs_glm-5.3-flashx_6.json": {
+  "has_h1": true,
+  "h1font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "For small teams · 2–12 people",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   244,
+   242,
+   236
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_7.json": {
+  "has_h1": true,
+  "h1font": "\"Segoe UI\", Inter, -apple-system, BlinkMacSystemFont, sans-serif",
+  "h1size": 73.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "✦ New — Shared weekly rituals",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   4,
+   39,
+   50
+  ],
+  "V5": false
+ },
+ "vs_glm-5.3-flashx_8.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   253,
+   252,
+   249
+  ],
+  "V5": true
+ },
+ "vs_glm-5.3-flashx_9.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 88,
+  "V2": true,
+  "V3": true,
+  "V3t": "A weekly planning ritual for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   247,
+   242,
+   233
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"Avenir Next\", Avenir, \"Segoe UI\", sans-serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer kind of planning",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   246,
+   248,
+   243
+  ],
+  "V5": false
+ },
+ "vs_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 65.28,
+  "V2": false,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   247,
+   249,
+   246
+  ],
+  "V5": false
+ },
+ "vs_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "A little clarity goes a long way",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   248,
+   245
+  ],
+  "V5": false
+ },
+ "vs_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 90.88,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer kind of planning",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 79.36,
+  "V2": true,
+  "V3": true,
+  "V3t": "A little more room to think",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   242,
+   238,
+   227
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_5.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 71.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   251,
+   250,
+   247
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_6.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76,
+  "V2": false,
+  "V3": true,
+  "V3t": "A calmer kind of teamwork",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   251,
+   250,
+   246
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_7.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   242,
+   234
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_8.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 78,
+  "V2": true,
+  "V3": true,
+  "V3t": "A gentler way to plan",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   243,
+   237
+  ],
+  "V5": true
+ },
+ "vs_gpt-6-luna_9.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   243,
+   235
+  ],
+  "V5": true
+ }
+}

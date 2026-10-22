@@ -1,0 +1,17 @@
+LANE R — Taste, monoculture and organisations
+kleinberg | Kleinberg & Raghavan, Algorithmic monoculture and social welfare (PNAS 2021) | Shared more-accurate algorithm can lower total decision quality even without shocks.
+bommasani | Bommasani et al., Picking on the same person: outcome homogenization (NeurIPS 2022) | Shared components lead to the same individuals failing across systems.
+panickssery | Panickssery, Bowman & Feng, LLM evaluators recognize and favor their own generations (2024) | Self-recognition correlates with self-preference.
+simmel | Georg Simmel, Fashion (1904) | Imitation and distinction; upper strata abandon a style once lower strata adopt it.
+salganik | Salganik, Dodds & Watts, MusicLab (Science 2006) | Social influence increased inequality and unpredictability of success.
+zajonc | Zajonc, Attitudinal effects of mere exposure (1968) | Repeated exposure increases liking.
+sibley | Frank Sibley, Aesthetic Concepts (1959) | Aesthetic concepts are not condition-governed; no set of non-aesthetic features suffices.
+campbell_bvsr | Donald Campbell, Blind variation and selective retention (1960); Simonton equal-odds rule | Creative thought as variation + selection; quality ratio constant across a career.
+march91 | James March, Exploration and exploitation in organizational learning (1991) | Fast learning/socialization converges code early; slower learners and turnover preserve diversity and improve long-run knowledge.
+lazer | Lazer & Friedman, The network structure of exploration and exploitation (ASQ 2007) | Less efficient (less connected) networks perform better in the long run on complex problems.
+daft_lengel | Daft & Lengel, Organizational information requirements, media richness (Mgmt Sci 1986) | Equivocality vs uncertainty; rich media for equivocal tasks.
+star | Star & Griesemer, Institutional ecology, 'translations' and boundary objects (1989) | Objects plastic enough to adapt to local needs, robust enough to maintain identity.
+garbagecan | Cohen, March & Olsen, A garbage can model of organizational choice (ASQ 1972) | Problems, solutions, participants and choice opportunities as independent streams in organized anarchies.
+weick | Karl Weick, The Social Psychology of Organizing (1979) / Sensemaking (1995); Educational organizations as loosely coupled systems (1976) | Equivocality reduction; loose coupling.
+pickering | Andrew Pickering, The Mangle of Practice (1995) | Dance of agency; resistance and accommodation between human and material agency.
+malafouris | Lambros Malafouris, How Things Shape the Mind (2013) | Material engagement theory; cognition extends into material.

@@ -1,0 +1,19 @@
+LANE O — Medium
+remediation | Bolter & Grusin, Remediation (1999) | New media refashion older media; immediacy and hypermediacy.
+mcluhan | McLuhan, Understanding Media (1964) | "The medium is the message."
+greenberg | Clement Greenberg, Modernist Painting (1960) | Each art should find what is unique to its medium (flatness for painting).
+krauss | Rosalind Krauss, A Voyage on the North Sea / post-medium condition (1999); Sculpture in the Expanded Field (1979) | Medium as a set of conventions, not a physical support.
+eno_studio | Brian Eno, The Studio as Compositional Tool (1979 lecture, pub. 1983) | Recording studio turned composition into an additive, in-medium process.
+eno_signature | Brian Eno, A Year with Swollen Appendices (1996) | "Whatever you now find weird, ugly, uncomfortable and nasty about a new medium will surely become its signature."
+menkman | Rosa Menkman, Glitch Studies Manifesto (2010) | Glitch/noise artifacts reveal a medium's hidden conventions; the medium's failures as material.
+kuleshov | Kuleshov effect (1910s–20s; Prince & Hensley 1992 replication; Mobbs 2006) | The same face reads differently depending on the shot beside it; check what replications found.
+albers | Josef Albers, Interaction of Color (1963) | The same colour reads differently by its surround; colour is relative.
+warde | Beatrice Warde, The Crystal Goblet (1930/1932) | Typography should be invisible, a clear goblet for the wine of meaning.
+flusser | Vilém Flusser, Towards a Philosophy of Photography (1983) | The photographer plays within the apparatus's program; photos exhaust the program's possibilities; freedom means playing against the apparatus.
+manovich | Lev Manovich, The Language of New Media (2001) | Five principles incl. variability: a new-media object can exist in many versions.
+lucier | Alvin Lucier, I Am Sitting in a Room (1969) | Re-recording speech in a room until only the room's resonances remain.
+ridler | Anna Ridler, Myriad (Tulips) / Mosaic Virus (2018) | Artist hand-photographed and labelled ~10,000 tulips as the dataset; dataset as medium.
+parrish | Allison Parrish (essays/talks on language models and poetry, e.g. "Language models can only write poetry" 2021) | Language models as a poetic material/instrument.
+herndon | Holly Herndon, PROTO (2019, "Spawn") and Holly+ (2021) | AI voice model as an instrument trained with consent; open model of her voice.
+crouwel | Wim Crouwel, New Alphabet (1967) | Typeface designed around CRT/screen grid limits.
+pico8 | PICO-8 fantasy console (Lexaloffle 2015) and demoscene size-limited intros | Chosen limits (128x128, 16 colours, token limits; 4K/64K intros) producing distinct styles.

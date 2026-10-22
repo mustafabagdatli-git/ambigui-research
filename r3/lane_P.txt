@@ -1,0 +1,20 @@
+LANE P — Scores and performers
+gerstner | Karl Gerstner, Designing Programmes (1964) | "Instead of solutions for problems, programmes for solutions"; design as parametric rule systems / morphological boxes.
+goodman_lang | Nelson Goodman, Languages of Art (1968) | Autographic vs allographic arts; a score defines the work; a performance complies with the score.
+iser | Wolfgang Iser, The Act of Reading (1976) / "Indeterminacy and the Reader's Response" (1971) | Gaps/blanks in texts that the reader fills.
+ingarden | Roman Ingarden, The Literary Work of Art (1931) | "Spots of indeterminacy" (Unbestimmtheitsstellen) concretised by the reader.
+keats | John Keats, letter of Dec 1817 on negative capability | "capable of being in uncertainties, Mysteries, doubts, without any irritable reaching after fact and reason."
+meyer_style | Leonard B. Meyer, Style and Music (1989) | Style is a replication of patterning resulting from choices made within constraints.
+moholy | László Moholy-Nagy, Telephone Pictures / EM paintings (1922) | Enamel paintings fabricated by a sign factory from his specification, reportedly ordered by phone (check: accounts disputed).
+halprin | Lawrence Halprin, The RSVP Cycles (1969), with Anna Halprin | Resources, Scores, Valuaction, Performance as a creative-process cycle.
+molnar | Vera Molnár, "1% de désordre" and machine imaginaire | Controlled small doses of randomness in systematic works.
+queneau_ex | Raymond Queneau, Exercises in Style (1947) | One trivial story retold 99 ways.
+zorn_cobra | John Zorn, Cobra (1984) | Game piece: a prompter shows cue cards; rules structure, players choose content.
+conduction | Butch Morris Conduction; Walter Thompson Soundpainting | Sign vocabularies for steering improvising ensembles live.
+commedia | Commedia dell'arte canovaccio and lazzi | Scenario outline plus stock comic routines the actors draw on.
+partimento | Partimento; Gjerdingen, Music in the Galant Style (2007) | Bass-line exercises and stock schemata used to train improviser-composers.
+conddesign | Conditional Design manifesto (Maurer, Paulus, Puckey, Wouters, 2008) | Process, logic, input; collaborative drawing games by rules.
+doit | Hans Ulrich Obrist et al., "do it" (1993–) | Exhibition of artists' instructions realised by others.
+fluxus | Fluxus event scores (George Brecht; Yoko Ono, Grapefruit 1964) | Short text instructions as artworks.
+johnstone | Keith Johnstone, Impro (1979) | Offers and blocking; status; accepting offers.
+renga | Renga (Japanese linked verse) and the Surrealist exquisite corpse | Poets add links seeing only the previous verse / folded paper.

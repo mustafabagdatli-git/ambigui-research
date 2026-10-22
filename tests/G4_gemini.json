@@ -1,0 +1,232 @@
+{
+ "p01": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "no",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p02": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p03": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p04": {
+  "ans": {
+   "V1": "yes",
+   "V2": "no",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p05": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p06": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p07": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p08": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p09": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p10": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "no",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p11": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p12": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p13": {
+  "ans": {
+   "V1": "no",
+   "V2": "no",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p14": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "unsure"
+  },
+  "finish": "stop"
+ },
+ "p15": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "no",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p16": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p17": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "p18": {
+  "ans": {
+   "V1": "no",
+   "V2": "no",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p19": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "no",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "p20": {
+  "ans": {
+   "V1": "no",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "pos": {
+  "ans": {
+   "V1": "yes",
+   "V2": "yes",
+   "V3": "yes",
+   "V4": "yes",
+   "V5": "yes"
+  },
+  "finish": "stop"
+ },
+ "neg": {
+  "ans": {
+   "V1": "no",
+   "V2": "no",
+   "V3": "no",
+   "V4": "no",
+   "V5": "no"
+  },
+  "finish": "stop"
+ },
+ "dark": {
+  "ans": {
+   "V1": "no",
+   "V2": "no",
+   "V3": "no",
+   "V4": "no",
+   "V5": "no"
+  },
+  "finish": "stop"
+ }
+}

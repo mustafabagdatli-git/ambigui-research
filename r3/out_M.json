@@ -1,0 +1,247 @@
+[
+ {
+  "id": "stokes",
+  "label": "Paired constraints, Stokes",
+  "year": "2005",
+  "thread": "same",
+  "detail": "Stokes models creativity as paired constraints: one precludes the reliable, successful solution, the other promotes a novel substitute, and both must be named. Her Monet example bars dark-light contrast and promotes closely valued colours.",
+  "links": [
+   "knobs",
+   "signature",
+   "libex"
+  ],
+  "lane": "M",
+  "opened": "abstract + preface excerpt — https://doi.org/10.1037//0003-066x.56.4.355 ; https://api.pageplace.de/preview/DT0400.9780826197856_A26559201/preview-9780826197856_A26559201.pdf",
+  "claim_check": "confirmed: 'free to do anything, most of us do what's worked best' is in the book's preface; the 2001 paper is on Monet's variability",
+  "implication": "Each performer's constraint should come as a pair, ban the habitual move and name its replacement, and the pair should follow from the score's goal, not be picked arbitrarily."
+ },
+ {
+  "id": "oulipo",
+  "label": "Rats and the clinamen, Oulipo",
+  "year": "1960",
+  "thread": "same",
+  "detail": "Oulipo writers set themselves formal constraints, often mathematical; the group's definition is 'rats who build the labyrinth from which they plan to escape'. The clinamen, a deliberate deviation from a restriction, is their only concession; Perec's 99-chapter Life A User's Manual is an example.",
+  "links": [
+   "knobs",
+   "plainuni",
+   "diff"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://www.rochester.edu/College/translation/threepercent/2012/09/10/reading-in-reverse-part-i-of-iii/ ; https://doi.org/10.1080/13528165.2016.1192866 ; https://www.ub.edu/llulldb/docs/Calvino.pdf",
+  "claim_check": "narrower: the rats line is called the group's official definition (Rochester) and is credited to Queneau by a secondary source (Eckler); clinamen is defined as a deviation from the strict consequences of a restriction (Mathews & Brotchie via Bray); Roubaud adds that a proper clinamen presupposes a rejected solution that respects the constraint. Did not open La Disparition itself.",
+  "implication": "A performer's break from a banned move should be logged as a named deviation with the compliant option it rejected, so a clinamen is a recorded choice rather than drift."
+ },
+ {
+  "id": "elster",
+  "label": "Less is more in art, Elster",
+  "year": "2000",
+  "thread": "same",
+  "detail": "Elster's chapter 'Less Is More' treats artists imposing constraints on themselves: Perec's e-less novel is idiosyncratic, while genre conventions are freely chosen but not invented by the artist. A commentator adds that an imposed constraint can become chosen, as with black-and-white film.",
+  "links": [
+   "knobs",
+   "plainuni"
+  ],
+  "lane": "M",
+  "opened": "abstract/summary — https://www.cambridge.org/core/books/abs/ulysses-unbound/less-is-more-creativity-and-constraints-in-the-arts/4BC88D7CD2A13CF8B1D7305030F16CA2 ; secondary quote of Elster in https://www.hasegawa.research.mcgill.ca/pdf/Hasegawa-Creating_with_Constraints_2022.pdf",
+  "claim_check": "narrower: the summary I read separates idiosyncratic (invented) constraints from genre conventions that are freely chosen but not invented; the imposed-to-chosen black-and-white point comes from a secondary citing Elster, not the chapter itself. 'Less is more' is the chapter title.",
+  "implication": "Mark each constraint on a score line by origin (imposed by the brief, chosen from a genre, or invented for this round), since they ask different things of a performer."
+ },
+ {
+  "id": "stravinsky",
+  "label": "Constraints as freedom, Stravinsky",
+  "year": "1947",
+  "thread": "same",
+  "detail": "In Poetics of Music Stravinsky says his freedom grows with how narrowly he limits his field and surrounds himself with obstacles: 'the more constraints one imposes, the more one frees one's self of the chains that shackle the spirit'. Quoted at page 65 of the 1947 edition.",
+  "links": [
+   "knobs",
+   "plainuni"
+  ],
+  "lane": "M",
+  "opened": "secondary quoting the book — https://www.hup.harvard.edu/books/9780674302433 ; https://www.hasegawa.research.mcgill.ca/pdf/Hasegawa-Creating_with_Constraints_2022.pdf ; reading notes at jazzvideolessons.net",
+  "claim_check": "confirmed: quotation text matches in three places; page 65 is from the 1947 edition cited by Hasegawa. The 1942 date in the lane is not what these sources cite, so I used 1947; I did not check the French original.",
+  "implication": "This is a statement from a composer, not evidence; use it as motivation for tighter score lines, and test the effect with the swatch run."
+ },
+ {
+  "id": "obstructions",
+  "label": "Obstructions as a game, von Trier & Leth",
+  "year": "2003",
+  "thread": "diverge",
+  "detail": "Von Trier asks Leth to remake his 1967 short The Perfect Human five times, each under a new obstruction (twelve-frame shots in Cuba, a miserable place not shown, a cartoon). When Leth fails the second, the third becomes 'complete freedom or back to Bombay'.",
+  "links": [
+   "divdec",
+   "diff",
+   "plan"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://en.wikipedia.org/wiki/The_Five_Obstructions ; https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/de-fem-benspaend",
+  "claim_check": "narrower: the sources confirm one director sets the other successive constraints and that at least the third was a response to Leth's failure on the second; they do not say each of the five was chosen after seeing the previous remake. DFI dates the challenge to 2000.",
+  "implication": "Each next constraint can be chosen after reading the diff on the previous round, as a sequence of obstructions, with a 'complete freedom' round as a deliberate control."
+ },
+ {
+  "id": "dogme95",
+  "label": "Ten rules of chastity, Dogme 95",
+  "year": "1995",
+  "thread": "same",
+  "detail": "The Vow of Chastity lists ten rules: shoot on location, sound with image, hand-held camera, colour, no filters, no superficial action, here and now, no genre, Academy 35 mm, no director credit. It also vows to refrain from personal taste.",
+  "links": [
+   "plainuni",
+   "subtract"
+  ],
+  "lane": "M",
+  "opened": "primary text — https://dogme95.com/ ; https://en.wikipedia.org/wiki/Dogme_95",
+  "claim_check": "confirmed: ten rules read from the manifesto text. Wikipedia notes the rules were broken even by films submitted as Dogme, for example Vinterberg's covered window and Von Trier's background music.",
+  "implication": "A set of refusals gives a recognisable look (a new uniform) and was bent in practice, so list its breaks next to it, as the plain-arm result with 17 of 17 white pages suggests."
+ },
+ {
+  "id": "oblique",
+  "label": "Cards for being stuck, Eno & Schmidt",
+  "year": "1975",
+  "thread": "same",
+  "detail": "Oblique Strategies is a deck of cards, each a short lateral prompt such as 'Honour thy error as a hidden intention' or 'Use an old idea', drawn when work reaches an impasse. Eno and Schmidt first published it in 1975; the first edition had 113 cards.",
+  "links": [
+   "knobs",
+   "signature"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://en.wikipedia.org/wiki/Oblique_Strategies ; https://www.theguardian.com/music/2009/sep/07/oblique-strategies",
+  "claim_check": "confirmed: 1975, Eno and Schmidt, cards with prompts for deadlocks; Wikipedia describes each card as a constraint; the prompts include 'Discover the recipes you are using and abandon them'. Did not check any evidence that the cards work.",
+  "implication": "A drawn random prompt is a cheap knob for a stuck performer, but it is a random constraint, so keep it separate from the paired constraints that come from the score."
+ },
+ {
+  "id": "boden",
+  "label": "Dropping a constraint, Boden",
+  "year": "1990",
+  "thread": "same",
+  "detail": "Boden separates combinational, exploratory and transformational creativity. In the transformational kind the conceptual space is changed by altering or dropping a defining constraint, so ideas arise that could not have before; Schoenberg's dropping the home key is her example.",
+  "links": [
+   "knobs",
+   "libex"
+  ],
+  "lane": "M",
+  "opened": "abstract + secondary — https://doi.org/10.1017/s0140525x0003569x ; https://www.cse.msu.edu/~cse841/papers/Boden.html ; https://onlinelibrary.wiley.com/doi/10.1609/aimag.v30i3.2254",
+  "claim_check": "confirmed: three types and the drop/alter-a-constraint heuristic. Boden's own 1994 précis says 'impossibilist' creativity transforms the space; Binsted writes that there is no clear line between exploring and transforming.",
+  "implication": "Separate rounds that explore within the current score from rounds that deliberately drop one defining line, and say which one a round was."
+ },
+ {
+  "id": "sellier_dahl",
+  "label": "Restricted choice, Sellier & Dahl",
+  "year": "2011",
+  "thread": "same",
+  "detail": "In two experiments (knitting and crafting), restricting the choice of creative inputs raised the creativity experts judged for experienced people, who enjoyed the process more. Everyone felt more creative with more choice.",
+  "links": [
+   "knobs",
+   "plainuni"
+  ],
+  "lane": "M",
+  "opened": "abstract — https://doi.org/10.1509/jmr.10.0407 ; working paper https://web-docs.stern.nyu.edu/pa/sellier_dahl_creative_success.pdf",
+  "claim_check": "narrower: the effect is for experienced consumers; the working paper says inexperienced ones were relatively unaffected. Perceived creativity rose with choice for all. I did not read the sample sizes.",
+  "implication": "How creative a performer feels with a wide score says nothing about its output, so judge the output blind and don't ask the performer."
+ },
+ {
+  "id": "kulkarni",
+  "label": "Examples early and repeatedly, Kulkarni, Dow & Klemmer",
+  "year": "2012",
+  "thread": "same",
+  "detail": "In an online experiment (N=81) people drew animals for an alien planet. Examples raised conformity whenever shown; early exposure improved creativity, repeated exposure with prototyping did better, and late exposure added conformity without benefit.",
+  "links": [
+   "libex",
+   "diagram"
+  ],
+  "lane": "M",
+  "opened": "full text excerpt — https://hci.stanford.edu/publications/2012/RepeatedExamplesCogSci2012/RepeatedExamplesCogSci2012.pdf",
+  "claim_check": "confirmed: conformity, early, repeated and late findings match the abstract. The 2012 conference paper later appeared as a 2014 book chapter. Participants also made fewer drawings after examples.",
+  "implication": "A Library example should be shown early in the round and again after the first sketch, and the diff should count features copied from it as conformity."
+ },
+ {
+  "id": "ward_si",
+  "label": "Structured imagination, Ward",
+  "year": "1994",
+  "thread": "same",
+  "detail": "Ward had undergraduates imagine animals from another galaxy (five experiments, 385 students) to show that creative and ordinary cognition share structures. A later paper summarises that most responses carried Earth-animal features such as bilateral symmetry.",
+  "links": [
+   "libex",
+   "unsaid",
+   "avgtaste"
+  ],
+  "lane": "M",
+  "opened": "abstract (ERIC) + secondary — https://eric.ed.gov/?id=EJ494059 ; https://escholarship.org/content/qt64n3300n/qt64n3300n_noSplash_94c4dbd3f431be08121186012c4f68c8.pdf",
+  "claim_check": "narrower: the 385 students and five experiments are in the ERIC abstract; the Earth-features finding is confirmed through a secondary. I did not find the phrase 'path of least resistance' in what I opened, so I left it out.",
+  "implication": "A model asked for something new will likely carry over the defaults of its category, which fits the shared look; the ask must name which structure to break."
+ },
+ {
+  "id": "geneplore",
+  "label": "Generate, then explore, Finke, Ward & Smith",
+  "year": "1992",
+  "thread": "diverge",
+  "detail": "Geneplore has two phases: generating preinventive structures without strong goal control, then exploring and interpreting them to see what they could be. Giving people a target category such as furniture before they build made products more stereotyped than giving it afterwards.",
+  "links": [
+   "plan",
+   "sampled",
+   "divdec"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://www.sciencedirect.com/topics/psychology/geneplore-model ; https://pubmed.ncbi.nlm.nih.gov/8906409/ ; MIT Press page https://mitpress.mit.edu/9780262061506/creative-cognition/",
+  "claim_check": "narrower: the two phases and the furniture result are from a ScienceDirect overview, and ambiguity is listed there as a property of preinventive structures; I did not open the 1992 book.",
+  "implication": "Ask performers for rough preinventive sketches before naming the target, then interpret them against the score; the plan-first step can run in that order."
+ },
+ {
+  "id": "shuhari",
+  "label": "Keep, break, leave, Shu-ha-ri",
+  "year": "1800",
+  "thread": "human",
+  "detail": "Shu-ha-ri names three stages of learning in Japanese arts: keep the teacher's form, break it, leave it. A verse handed down as Sen no Rikyu's ends 'do not forget the root'; the three characters are documented from Kawakami Fuhaku (1719-1807).",
+  "links": [
+   "rung",
+   "prov"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://en.wikipedia.org/wiki/Shu-ha-ri ; https://sumimasenguide.com/articles/shuhari-and-zen ; https://www.jka.or.jp/en/monthly-column/2-from-art-to-pathkusahara-katsuhide-chairman-of-jka-2-2-2-2-2-2-2-2-2/",
+  "claim_check": "narrower: stages confirmed, but the attribution to Rikyu is uncertain (the guide says it could not confirm he wrote the verse) and the earliest document I saw is Fuhaku's, so the year is approximate. Not a Zen term in the sources checked.",
+  "implication": "Treat a junior performer's first rounds as keep-the-form work and mark which score lines may be broken only after that; do not cite Rikyu as the origin."
+ },
+ {
+  "id": "linmo",
+  "label": "Transmission by copying, Xie He",
+  "year": "550",
+  "thread": "human",
+  "detail": "Xie He's six principles of painting, from the preface to his Record of the Classification of Old Painters (c. 550), include as the sixth 'Transmission by Copying': copying models, from life and from the works of antiquity.",
+  "links": [
+   "rung",
+   "libex"
+  ],
+  "lane": "M",
+  "opened": "secondary — https://en.wikipedia.org/wiki/Six_principles_of_Chinese_painting ; https://ulearninglabs.umag.hku.hk/en/dictionaries/huihua-liufa/ ; Wang Keping abstract on cnki",
+  "claim_check": "narrower: the sixth principle is confirmed; the term linmo itself did not appear in the sources I opened. Wikipedia notes translations vary widely and each period read the principles differently, so 'transmission by copying' is one rendering.",
+  "implication": "Copying a Library part is an accepted first rung, and the provenance mark should say copied; do not equate copying with the model reusing its own defaults."
+ },
+ {
+  "id": "rasa",
+  "label": "Rasa as flavour, Natyashastra",
+  "year": "200",
+  "thread": "history",
+  "detail": "In the Natyashastra rasa is produced by combining determinants, consequents and transitory states, and is tasted by the spectator as a cook's dish is tasted. The text lists eight rasas tied to durable states such as love, laughter and fear.",
+  "links": [
+   "pscore",
+   "plainlines"
+  ],
+  "lane": "M",
+  "opened": "primary translation + secondary — https://www.wisdomlib.org/hinduism/book/the-natyashastra/d/doc209700.html ; https://riviste.unimi.it/index.php/itinera/en/article/download/8721/8294/25937",
+  "claim_check": "narrower: confirmed that rasa arises from a combination of bhavas and is relished by the spectator, which says what the performance should evoke; whether it 'specifies' the whole performance is my reading. Date is approximate; none of the sources I opened gave one.",
+  "implication": "A persona or score line can state the state to be evoked in the viewer as well as the form, which fits the Expects and Just before lines."
+ },
+ {
+  "id": "rainer_no",
+  "label": "A list of refusals, Rainer",
+  "year": "1965",
+  "thread": "same",
+  "detail": "Rainer ended a 1965 essay on her dance Parts of Some Sextets with the No Manifesto: no to spectacle, virtuosity, transformations and magic, the star image, the heroic, style, camp, eccentricity, and moving or being moved.",
+  "links": [
+   "plainuni",
+   "subtract"
+  ],
+  "lane": "M",
+  "opened": "primary text via secondary — https://1000manifestos.com/yvonne-rainer-no-manifesto/ ; https://en.wikipedia.org/wiki/Yvonne_Rainer ; https://www.getty.edu/research/collections/static/pdf/2006.M.24.pdf",
+  "claim_check": "confirmed: text and 1965 date. Wikipedia says she reconsidered it in 2008, and in a 1977 interview she said the body speaks however you suppress it, so the refusals were not absolute.",
+  "implication": "A pure list of refusals is easy to write but, like the plain arm, it can swap one uniform for another, so each refusal should name what replaces it."
+ }
+]

@@ -1,0 +1,22 @@
+{
+ "p01": "B3_glm-5.3-flashx_2.json",
+ "p02": "B2_glm-5.3-flashx_2.json",
+ "p03": "B6_claude-haiku-5.5_4.json",
+ "p04": "B5_gpt-6-luna_0.json",
+ "p05": "B0_gpt-6-luna_0.json",
+ "p06": "B5_claude-haiku-5.5_4.json",
+ "p07": "B0_glm-5.3-flashx_3.json",
+ "p08": "B1_glm-5.3-flashx_3.json",
+ "p09": "B4_claude-haiku-5.5_2.json",
+ "p10": "B5_glm-5.3-flashx_3.json",
+ "p11": "B0_claude-haiku-5.5_2.json",
+ "p12": "B4_gpt-6-luna_1.json",
+ "p13": "B3_gpt-6-luna_0.json",
+ "p14": "B6_gpt-6-luna_4.json",
+ "p15": "B6_glm-5.3-flashx_0.json",
+ "p16": "B1_claude-haiku-5.5_4.json",
+ "p17": "B1_gpt-6-luna_1.json",
+ "p18": "B2_claude-haiku-5.5_0.json",
+ "p19": "B4_glm-5.3-flashx_4.json",
+ "p20": "B3_claude-haiku-5.5_1.json"
+}

@@ -1,0 +1,2 @@
+done 60 cost $0.672
+Counter({('direct', 'stop'): 20, ('vs', 'stop'): 19, ('vs', 'parse_error'): 11, ('direct', 'length'): 10})

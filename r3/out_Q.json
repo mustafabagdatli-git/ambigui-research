@@ -1,0 +1,258 @@
+[
+ {
+  "id": "goel",
+  "label": "Loose sketches widen the search, Goel",
+  "year": "1995",
+  "thread": "same",
+  "detail": "In Goel's protocol study of nine expert designers, freehand sketching produced more lateral transformations than a grid-bound drawing package: 8.9 against 3.2 at the syntactic level, 8.0 against 3.9 at the semantic level, plus more reinterpretations of earlier drawings.",
+  "links": [
+   "knobs",
+   "plan",
+   "diagram"
+  ],
+  "lane": "Q",
+  "opened": "full text of the 1992 CogSci paper reporting the study + MIT Press abstract — http://www.yorku.ca/vgoel/reprints/cogsci92_sketching.pdf ; https://doi.org/10.7551/mitpress/6270.001.0001",
+  "claim_check": "narrower: the numbers come from Goel's 1992 paper on the same study; the book abstract I opened does not mention lateral transformations. The 'drafting tool' was MacDraw with freehand off and grid on, nine designers, one-tailed tests.",
+  "implication": "A performer asked for a rough, unresolved first pass may explore more than one asked for a finished page; the plan-first step should stay sketch-grade."
+ },
+ {
+  "id": "buxton",
+  "label": "What a sketch is, Buxton",
+  "year": "2007",
+  "thread": "same",
+  "detail": "Buxton lists eleven attributes of a sketch, among them quick, inexpensive, disposable, plentiful, ambiguous, minimal detail, and 'suggest and explore rather than confirm'. He sets sketches apart from prototypes by intent: invite, suggest, question versus attend, describe, answer.",
+  "links": [
+   "plan",
+   "diff",
+   "subtract"
+  ],
+  "lane": "Q",
+  "opened": "secondary — Buxton's essay 'What Sketches (and Prototypes) Are and Are Not' https://www.cs.cmu.edu/~bam/uicourse/Buxton-SketchesPrototypes.pdf and a reader's list from the book pp.111-2 https://jan.miksovsky.com/posts/2007/09-05-bill-buxtons-sketching-user-experiences",
+  "claim_check": "confirmed: the named attributes are in the list; the book itself was not opened, only Buxton's own essay and a quoted page range.",
+  "implication": "Plan-first output and Sketchbook lines should read as proposals with deliberate gaps, not as finished pages that confirm a choice."
+ },
+ {
+  "id": "tohidi",
+  "label": "One design flatters, three invite criticism, Tohidi et al.",
+  "year": "2006",
+  "thread": "diverge",
+  "detail": "Users who saw one interface rated it higher and criticised it less than users who saw the same design among three. Of 36 who saw a single prototype, none rejected it; 3 of 12 in the multiple condition explicitly rejected one.",
+  "links": [
+   "sampled",
+   "dirlevel",
+   "rejudge"
+  ],
+  "lane": "Q",
+  "opened": "full text (CHI 2006 PDF excerpt) + abstract — https://dl.acm.org/doi/pdf/10.1145/1124772.1124960",
+  "claim_check": "confirmed: 0 of 36 and 3 of 12 match. The paper also says usability testing, even with multiple designs, did not elicit constructive suggestions from users.",
+  "implication": "Show every reviewer or swarm persona three performer outputs side by side, not one; a lone page will be scored too kindly."
+ },
+ {
+  "id": "dow_parallel",
+  "label": "Parallel beats serial, Dow et al.",
+  "year": "2010",
+  "thread": "diverge",
+  "detail": "In a 33-person study of web banner ads, those who made several prototypes before feedback beat serial makers on click-through, time on the client's site and expert ratings, and their prototypes were rated more diverse. Experienced designers made less diverse ads than novices.",
+  "links": [
+   "divdec",
+   "plan",
+   "signature"
+  ],
+  "lane": "Q",
+  "opened": "full text excerpt + abstract — https://hci.stanford.edu/publications/2010/parallel-prototyping/ParallelPrototyping2010.pdf ; https://dl.acm.org/doi/10.1145/1879831.1879836",
+  "claim_check": "confirmed: parallel outperformed serial on all measures reported; experienced participants were more similar, novices more divergent. Participants were novices on one task, about half with prior design experience.",
+  "implication": "Run performers in parallel on the same score and give feedback on all of them at once, not one after another."
+ },
+ {
+  "id": "stiny",
+  "label": "Seeing anew as computation, Stiny",
+  "year": "2006",
+  "thread": "diverge",
+  "detail": "Stiny argues that seeing shapes, with all their changeability and ambiguity, is an inexhaustible source of creative ideas, and that designing is calculating with shapes by rules, without equations or numbers.",
+  "links": [
+   "divdec",
+   "sampled",
+   "knobs"
+  ],
+  "lane": "Q",
+  "opened": "secondary — MIT Press publisher description of Shape https://mitpress.mit.edu/9780262195317/shape/",
+  "claim_check": "narrower: the publisher text supports ambiguity and seeing as the engine of design; it does not use the word 'emergent', and the 1972 Stiny and Gips paper was not opened.",
+  "implication": "A performer's unexpected reading of a score line may be a resource to name, not an error; the Sketchbook should let a surprise be kept as a decision."
+ },
+ {
+  "id": "koning",
+  "label": "A grammar of the prairie house, Koning & Eizenberg",
+  "year": "1981",
+  "thread": "same",
+  "detail": "A parametric shape grammar, built from eleven Frank Lloyd Wright houses from Winslow to Robie, centres on a fireplace and recursively adds blocks; the authors show three new prairie houses it generates.",
+  "links": [
+   "libex",
+   "knobs",
+   "signature"
+  ],
+  "lane": "Q",
+  "opened": "abstract and intro — https://doi.org/10.1068/b080295 ; PDF https://www.andrew.cmu.edu/course/48-747/subFrames/readings/Koning%26Eizenberg.theLanguageOfThePrairie.pdf",
+  "claim_check": "confirmed: it captures a style from a corpus and generates new members. Whether it 'captures a style' fully is the authors' claim, not independently tested here.",
+  "implication": "A style can be written as rules, so a Library entry could carry a few generative rules, not only an example, and rules are what a ban-and-replace knob needs."
+ },
+ {
+  "id": "lawson",
+  "label": "Four makers of constraints, Lawson",
+  "year": "1980",
+  "thread": "level",
+  "detail": "Lawson sorts design constraints by who generates them (legislators, users, clients, designers), by domain (internal or external) and by function (radical, practical, formal, symbolic). Legislators' are the most rigid, the designer's the most open to debate.",
+  "links": [
+   "statesgap",
+   "specgap",
+   "oneq"
+  ],
+  "lane": "Q",
+  "opened": "secondary — a lecture summary of the chapters https://engineering.tiu.edu.iq/architecture/wp-content/uploads/2019/06/4th-Lecture-The-generators-of-design-problem.pdf ; Rowe & Chung chapter https://doi.org/10.1515/9783035628128-002 ; Lawson chapter abstract https://doi.org/10.4324/9780429448577-23",
+  "claim_check": "confirmed: the generators, internal/external and the four functions are all there; the book itself was not opened. Original edition 1980, revised later.",
+  "implication": "Each score line could say who set it (you, the client brief, a rule) so that fixed, band and open mean something about who may change it."
+ },
+ {
+  "id": "dorst_cross",
+  "label": "Problem and solution grow together, Dorst & Cross",
+  "year": "2001",
+  "thread": "level",
+  "detail": "From protocol studies of nine experienced industrial designers, the authors confirm a model in which problem and solution spaces co-evolve, and propose refining it with 'default' and 'surprise' problem and solution spaces.",
+  "links": [
+   "statesgap",
+   "specgap",
+   "divdec"
+  ],
+  "lane": "Q",
+  "opened": "abstract — https://www.sciencedirect.com/science/article/pii/S0142694X01000096 ; https://oro.open.ac.uk/3278/",
+  "claim_check": "narrower: the abstract confirms co-evolution and nine designers; the 'creative event bridges the two spaces' wording is not in the abstract and I did not read the full paper.",
+  "implication": "A score that never changes after a first build cannot show the problem being reframed; expect performers to expose missing lines and allow the score to be amended between rounds."
+ },
+ {
+  "id": "gtheory",
+  "label": "Split the score variance, Cronbach et al.",
+  "year": "1972",
+  "thread": "blind",
+  "detail": "Generalizability theory estimates variance components for each facet, such as raters or occasions, in a G study, then a D study estimates how well scores would generalize under another design, for example with different raters.",
+  "links": [
+   "m56",
+   "aa",
+   "makers"
+  ],
+  "lane": "Q",
+  "opened": "full text excerpt of the 1972 book — https://gwern.net/doc/psychology/1972-cronbach-thedependabilityofbehavioralmeasurements.pdf ; encyclopedia entry https://edge.sagepub.com/system/files/Generalizability%20Theory%20%281%29.pdf",
+  "claim_check": "confirmed: G study, D study, facets and the coefficient of generalizability are all in the text. It is the Spearman-Brown idea extended to several facets.",
+  "implication": "Score a fixed set of pages with several judges and occasions, split the variance, then project how many judges or runs a verdict needs, instead of trusting one pass."
+ },
+ {
+  "id": "mapelites",
+  "label": "A map of the best per cell, Mouret & Clune",
+  "year": "2015",
+  "thread": "diverge",
+  "detail": "MAP-Elites builds a map of high-performing solutions at each point in a space whose dimensions the user chooses, returning many different good solutions, and tended to find a better single solution than state-of-the-art search algorithms.",
+  "links": [
+   "signature",
+   "libex",
+   "knobs"
+  ],
+  "lane": "Q",
+  "opened": "abstract — https://arxiv.org/abs/1504.04909",
+  "claim_check": "confirmed: the cells are defined by user-chosen dimensions of variation; the 'better overall solution' result is the authors' on three domains including soft robots, not on design pages.",
+  "implication": "A Library or board could hold the best page per cell of a few chosen traits, such as layout type and colour band, instead of one winner."
+ },
+ {
+  "id": "vendi",
+  "label": "Diversity as effective count, Friedman & Dieng",
+  "year": "2022",
+  "thread": "diverge",
+  "detail": "The Vendi Score is the exponential of the Shannon entropy of the eigenvalues of a similarity matrix, so the user's own similarity function defines what counts as diverse and no reference set is needed.",
+  "links": [
+   "signature",
+   "swatch",
+   "unsaid"
+  ],
+  "lane": "Q",
+  "opened": "abstract — https://arxiv.org/abs/2210.02410",
+  "claim_check": "confirmed: definition as stated; v1 Oct 2022, revised Jul 2023.",
+  "implication": "Score a round of performer pages with a similarity function you choose, to get a single diversity count that can be compared with the swatch spread."
+ },
+ {
+  "id": "verbalized",
+  "label": "Ask for the distribution, Zhang et al.",
+  "year": "2025",
+  "thread": "same",
+  "detail": "The authors trace mode collapse partly to annotators favouring familiar text, and propose asking the model for several responses with probabilities. In creative writing this raised diversity by 1.6 to 2.1 times, and more capable models benefited more.",
+  "links": [
+   "knobs",
+   "signature",
+   "avgtaste"
+  ],
+  "lane": "Q",
+  "opened": "abstract — https://arxiv.org/abs/2510.01171",
+  "claim_check": "confirmed: figures and the 'emergent trend' for more capable models are in the abstract; the trend is reported as an observation, not a tested law.",
+  "implication": "A performer could be asked for five readings of a score with stated odds, as a cheaper way to expose its habit than five full builds."
+ },
+ {
+  "id": "semantic_entropy",
+  "label": "Entropy over meanings, Farquhar et al.",
+  "year": "2024",
+  "thread": "diverge",
+  "detail": "Sampled answers are grouped by meaning, then entropy is computed over the groups. High semantic entropy flags confabulations: across 30 task and model pairs it reached AUROC 0.790 against 0.691 for naive entropy.",
+  "links": [
+   "sampled",
+   "agreeno",
+   "signature"
+  ],
+  "lane": "Q",
+  "opened": "full text of the Nature paper — https://www.nature.com/articles/s41586-024-07421-0",
+  "claim_check": "narrower: the Nature paper confirms the method and numbers; Kuhn et al. 2023 (the original ICLR version) was not opened. Detects a subset of hallucinations, arbitrary wrong answers, not systematic ones.",
+  "implication": "Cluster performer outputs by what decision they make, not by wording; a split across clusters marks an open line, and agreement does not prove it is settled."
+ },
+ {
+  "id": "ambient",
+  "label": "Do models see two readings, Min et al. and Liu et al.",
+  "year": "2023",
+  "thread": "diverge",
+  "detail": "AmbigQA found over half of 14,042 NQ-open questions ambiguous. AmbiEnt has 1,645 linguist-annotated examples; GPT-4's generated disambiguations were judged correct 32% of the time against 90% for the dataset's.",
+  "links": [
+   "sampled",
+   "agreeno",
+   "oneq"
+  ],
+  "lane": "Q",
+  "opened": "abstracts — https://arxiv.org/abs/2004.10645 ; https://arxiv.org/abs/2304.14399",
+  "claim_check": "confirmed: 32% versus 90% is crowdworker-judged correctness of GPT-4's disambiguations, not a recognition rate; AmbigQA is Min et al. 2020, AmbiEnt is Liu et al. 2023.",
+  "implication": "Do not trust a model to say a brief is ambiguous; use performer divergence to find open lines and let a person write the one question."
+ },
+ {
+  "id": "hekkert",
+  "label": "Novel but typical, Hekkert et al.",
+  "year": "2003",
+  "thread": "same",
+  "detail": "In three studies of consumer products, typicality and novelty were jointly and about equally effective in explaining preference but suppressed each other: raw correlations with liking were not significant until the other variable was partialed out.",
+  "links": [
+   "avgtaste",
+   "unsaid",
+   "flatten"
+  ],
+  "lane": "Q",
+  "opened": "abstract — https://doi.org/10.1348/000712603762842147 ; https://pubmed.ncbi.nlm.nih.gov/12648393/",
+  "claim_check": "confirmed: also found that observer expertise did not change the balance. Products were industrial designs, not web pages.",
+  "implication": "Score a page for how typical and how novel it is as two separate numbers, since a single liking score will hide that a safe look and a fresh look pull against each other."
+ },
+ {
+  "id": "west_potts",
+  "label": "Aligned models get predictable, West & Potts",
+  "year": "2025",
+  "thread": "same",
+  "detail": "Aligned models prefer '7' in random numbers, become almost fully predictable in some game states and favour pleasant writing over creative originality. Better scores on common benchmarks tended to go with worse results on these tasks.",
+  "links": [
+   "signature",
+   "avgtaste",
+   "flatten"
+  ],
+  "lane": "Q",
+  "opened": "abstract and results excerpt — https://arxiv.org/abs/2505.00047",
+  "claim_check": "confirmed: comparison is base against aligned versions of the same models; the poetry result is a small contest-style human evaluation.",
+  "implication": "A base-model performer may be worth trying as a diverging arm; judge whether its pages are original or just broken before counting it as variety."
+ }
+]

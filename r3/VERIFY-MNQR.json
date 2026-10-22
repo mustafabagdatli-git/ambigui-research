@@ -1,0 +1,457 @@
+[
+ {
+  "id": "stokes",
+  "status": "verified",
+  "detail": "Stokes models creativity as paired constraints: one precludes the reliable, successful solution, the other promotes a novel substitute, and each must be specified. Her Monet example bars dark-light contrasts and promotes contrasting closely valued colours.",
+  "year": "2006",
+  "note": "Opened preface excerpt (pageplace PDF), Stokes 2008 abstract. Preface text matches the detail. Year: Stokes cites the book as 2006 herself; book is copyright 2005/2006."
+ },
+ {
+  "id": "oulipo",
+  "status": "scoped",
+  "detail": "Oulipo (founded 1960) used formal constraints; the group's early definition of its members was 'rats who have to build the labyrinth from which they plan to escape'. One commentator calls the clinamen, a deliberate swerve from a restriction, their only concession; Perec's missing 100th chapter is the example.",
+  "year": "1960",
+  "note": "Opened Bray 2016 article and the 1961 Oulipo meeting minutes (French original of the rat definition). Changed: quote is a translation of the 1961 minutes; 'only concession' is Bray's gloss, not the group's; Perec example clarified (book has 99 chapters where the structure implies 100). 'Often mathematical' not checked."
+ },
+ {
+  "id": "elster",
+  "status": "corrected",
+  "detail": "Elster's chapter 'Less Is More' treats artists imposing constraints on themselves: Perec's e-less novel is entirely idiosyncratic, while genre conventions are freely chosen but not invented by the artist. Elster also notes an imposed constraint can become chosen, as black-and-white film did.",
+  "year": "2000",
+  "note": "Opened Cambridge chapter summary and Hasegawa 2022, which cites Elster 2000 p.4 for the black-and-white point. Corrected: the original attributed that point to 'a commentator'; it is Elster's own. Chapter text itself not read beyond the summary."
+ },
+ {
+  "id": "stravinsky",
+  "status": "verified",
+  "detail": "In Poetics of Music Stravinsky says his freedom grows the more narrowly he limits his field and surrounds himself with obstacles: 'The more constraints one imposes, the more one frees one's self of the chains that shackle the spirit.' Cited to p. 65 (1947 edition).",
+  "year": "1947",
+  "note": "Opened Hasegawa 2022 (cites Stravinsky 1947, 65), a notes PDF marking the passage at p. 65, and the HUP page quoting it. Quote and page match; page depends on edition (a quote site cites a 1970 edition, also p. 65)."
+ },
+ {
+  "id": "obstructions",
+  "status": "verified",
+  "detail": "Von Trier makes Leth remake his 1967 short The Perfect Human five times under 'obstructions' (twelve-frame shots in Cuba; a miserable place not shown; a cartoon). Because Leth fails the second, the third becomes 'complete freedom or back to Bombay'.",
+  "year": "2003",
+  "note": "Opened Wikipedia and FIPRESCI review. Obstruction sequence matches. The fifth remake is written by von Trier. Secondary sources only."
+ },
+ {
+  "id": "dogme95",
+  "status": "verified",
+  "detail": "The Vow of Chastity lists ten rules: location shooting, sound with image, hand-held camera, colour, no optical work or filters, no superficial action, here and now, no genre films, Academy 35 mm, no director credit. It also vows to refrain from personal taste.",
+  "year": "1995",
+  "note": "Opened the manifesto text at dogme95.com. All ten rules and the personal-taste vow are there; signed 13 March 1995."
+ },
+ {
+  "id": "oblique",
+  "status": "verified",
+  "detail": "Oblique Strategies is a deck of cards, each a short lateral prompt such as 'Honour thy error as a hidden intention' or 'Use an old idea', drawn at an impasse. Eno and Schmidt first published it in 1975, 500 copies, 113 cards.",
+  "year": "1975",
+  "note": "Opened Wikipedia (edition table: 1975, 113 cards, 500 copies) and the Oblique Strategies FAQ (card one: printed January 1975, edition of 500; Eno quote on the first strategy)."
+ },
+ {
+  "id": "boden",
+  "status": "verified",
+  "detail": "Boden separates combinational, exploratory and transformational creativity. In the transformational kind the conceptual space itself is changed, for example by dropping a defining constraint; her example is Schoenberg dropping the home-key constraint of tonal music.",
+  "year": "1990",
+  "note": "Opened Boden's online text (dropping home key; dropping a constraint as heuristic) and a Sussex paper noting the three forms appear in later editions. The 1990 book is the origin; the three-way split is stated in later editions and her 1994/1998 writings."
+ },
+ {
+  "id": "sellier_dahl",
+  "status": "verified",
+  "detail": "In two studies (knitting and crafting), restricting the choice of creative inputs raised the creativity experts judged for experienced consumers, who enjoyed the process more. Everyone, regardless of experience, felt more creative with more choice.",
+  "year": "2011",
+  "note": "Opened the JMR abstract (doi) and the NYU working paper abstract; matches. Abstract only."
+ },
+ {
+  "id": "kulkarni",
+  "status": "verified",
+  "detail": "In an online experiment (N=81), people drew animals for an alien Earth-like planet. Exposure to examples raised conformity; early exposure improved creativity, repeated exposure interspersed with prototyping did even better, and late exposure raised conformity without improving creativity.",
+  "year": "2012",
+  "note": "Opened the Stanford PDF (abstract and results). Matches."
+ },
+ {
+  "id": "ward_si",
+  "status": "scoped",
+  "detail": "Ward's five experiments with 385 undergraduates imagining animals from another galaxy support the idea that similar structures and processes underlie creative and noncreative cognition. Imagined animals tended to keep typical Earth-animal properties (the paper's 'characteristic properties').",
+  "year": "1994",
+  "note": "Opened the ERIC record (5 experiments, 385 undergraduates, quoted conclusion). The bilateral-symmetry example from a later paper was not checked and is dropped; 'keep typical properties' is the standard reading of the paper's title and abstract wording but only the ERIC abstract was read."
+ },
+ {
+  "id": "geneplore",
+  "status": "scoped",
+  "detail": "Geneplore (Finke, Ward & Smith 1992) has a generative phase producing preinventive structures and an exploratory phase interpreting them. In Finke's studies, forming the shape before learning its category gave the most creative but fewer practical inventions, by cross-experiment comparison.",
+  "year": "1992",
+  "note": "Opened Dix et al. 2006 summary of Geneplore and Finke's preinventive-form studies, and Smith, Ward & Schumacher 1993 intro. Changed: 'more stereotyped' reworded to what the secondary source says (more creative, fewer practical), flagged as cross-experiment comparison. Book not opened."
+ },
+ {
+  "id": "shuhari",
+  "status": "scoped",
+  "detail": "Shu-ha-ri names three stages of learning in Japanese arts: keep the teacher's form, break it, leave it. The three characters appear in the writings of Kawakami Fuhaku (1719-1807); a verse handed down as Sen no Rikyu's ends 'do not forget the root'.",
+  "year": "18th century",
+  "note": "Opened Sumimasen Guide and a note.com explainer. Fuhaku dates and the Rikyu verse match; the guide says Rikyu's authorship of the verse is unconfirmed, and the exact date of Fuhaku's text is not given, so year is approximate. Secondary sources."
+ },
+ {
+  "id": "linmo",
+  "status": "verified",
+  "detail": "Xie He's six principles of painting, from the preface to his Record of the Classification of Old Painters (c. 550), include as the sixth 'Transmission by Copying': copying of models, not only from life but also from the works of antiquity.",
+  "year": "550",
+  "note": "Opened Wikipedia, ctext and HKU ULearning Labs; wording matches. Secondary sources; the principle is terse in the original and translations vary."
+ },
+ {
+  "id": "rasa",
+  "status": "verified",
+  "detail": "In the Natyashastra rasa is produced from a combination of determinants, consequents and transitory states, and is relished like a dish made from combined ingredients. It lists eight rasas tied to eight durable states such as love, mirth and fear.",
+  "year": "c. 200 BCE-200 CE",
+  "note": "Opened Wikipedia (rasa sutra 6.109, dating 200 BCE-200 CE, eight sthayibhavas), INFLIBNET Bharata chapter (food analogy). Dating is a scholarly range."
+ },
+ {
+  "id": "rainer_no",
+  "status": "verified",
+  "detail": "Rainer closed a 1965 essay on her dance Parts of Some Sextets with the No Manifesto: no to spectacle, virtuosity, transformations and magic, the star image, the heroic, style, camp, eccentricity, and moving or being moved, among others.",
+  "year": "1965",
+  "note": "Opened Getty finding aid (full quote), a Rainer study PDF and Wendy Perron's piece (manifesto appended as a postscript to the essay). List in detail is abridged but accurate."
+ },
+ {
+  "id": "tolerance",
+  "status": "scoped",
+  "detail": "A dimension is allowed a tolerance zone, and the unspecified distance across an assembly accumulates the contributors' variations. Worst-case analysis guarantees assembly but is costly; relaxing to, say, 99.97% acceptance with statistical analysis allows looser tolerances. (Shah et al., CAD&A 2007.)",
+  "year": "2007",
+  "note": "Opened the paper PDF (cad-journal.net). Wording 'say 99.97% acceptance' matches the paper. Citation fix: authors are Shah, Ameta, Shen, Davidson, not Piegl (Piegl is the journal editor). A separate source gives 99.73% for the usual 3-sigma case, so 99.97% is the paper's illustrative figure."
+ },
+ {
+  "id": "setbased",
+  "status": "verified",
+  "detail": "Toyota's set-based approach starts by broadly considering sets of possible solutions in parallel, then gradually narrows them to converge; the authors give three principles, the last being establishing feasibility before commitment.",
+  "year": "1999",
+  "note": "Opened the Dialnet abstract and the opening of the MIT Sloan Management Review page. Matches."
+ },
+ {
+  "id": "lrm",
+  "status": "scoped",
+  "detail": "The Poppendiecks define the last responsible moment as the moment at which failing to make a decision eliminates an important alternative; past it, decisions get made by default. They stress that delaying decisions is hard work, not procrastination.",
+  "year": "2003",
+  "note": "Opened Mary Poppendieck's 2003 essay (exact definition) and the book sample pages. Dropped the claim that they credit the Lean Construction Institute: the sample pages only thank LCI staff; the LCI glossary has its own, different wording of LRM."
+ },
+ {
+  "id": "taguchi",
+  "status": "scoped",
+  "detail": "Robust parameter design treats design parameters as control factors and assesses robustness under noise factors. ISO 16336:2014, based on Taguchi Methods, defines robust as insensitivity of a product's function to changes in noise levels.",
+  "year": "1980s",
+  "note": "Opened ISO 16336:2014 abstract and sample text. Dropped the 'popularised by Taguchi in mid-1980s' claim and the Wu & Hamada reference: the date is unverified (year field is approximate)."
+ },
+ {
+  "id": "baldwin_clark",
+  "status": "scoped",
+  "detail": "In a modular design, 'visible' modules carry design rules that hidden modules must obey; design decisions inside a hidden module affect no other module. Designers can replace early solutions there with better ones later, which Baldwin and Clark model as real options.",
+  "year": "2000",
+  "note": "Opened Baldwin & Clark, 'Modularity after the Crash' (HBS) and the MIT Press blurb. Dropped 'main source of option value': that essay says options exist in modules and gives technical potential, experiment cost and visibility as drivers. Book itself not opened."
+ },
+ {
+  "id": "parnas",
+  "status": "verified",
+  "detail": "Parnas argues that decomposing a system into modules from a flowchart is almost always incorrect; instead begin with a list of difficult design decisions or ones likely to change, and design each module to hide one such decision from the others.",
+  "year": "1972",
+  "note": "Opened the Parnas 1972 paper text (conclusion and criteria sections) via ACM and Colorado State copies. Matches."
+ },
+ {
+  "id": "gause_weinberg",
+  "status": "scoped",
+  "detail": "Exploring Requirements (1989) covers an ambiguity poll (chapters 4, 19) and a 'Mary had a little lamb' heuristic: say a requirement aloud, stressing each word in turn, and ask what it could mean.",
+  "year": "1989",
+  "note": "Opened Dorset House table of contents, Marick's review and Ian Alexander's review. Dropped the '100 people cluster into a few groups' claim from a slide deck, which I could not confirm. Book text not opened."
+ },
+ {
+  "id": "ird",
+  "status": "verified",
+  "detail": "The paper treats a designed reward as an observation about what the designer wants, to be read in the context of the training environment it was designed for, and uses that to plan risk-averse behavior in new environments.",
+  "year": "2017",
+  "note": "Opened arXiv abstract (NeurIPS 2017). Matches."
+ },
+ {
+  "id": "offswitch",
+  "status": "verified",
+  "detail": "In a game between a human and a robot, an agent that takes its reward as given has an incentive to disable the off switch unless the human is perfectly rational; an agent uncertain about the utility treats the human's actions as observations and keeps the switch.",
+  "year": "2017",
+  "note": "Opened arXiv abstract (v3, June 2017). Matches."
+ },
+ {
+  "id": "goalmisgen",
+  "status": "verified",
+  "detail": "In goal misgeneralization an RL agent keeps its capabilities out of distribution but pursues the wrong goal. Shah et al. add that it can happen even when the specification is correct, with examples across several kinds of deep learning systems.",
+  "year": "2022",
+  "note": "Opened both arXiv abstracts (Langosco et al., ICML 2022; Shah et al. 2022). Matches."
+ },
+ {
+  "id": "ayres_gertner",
+  "status": "scoped",
+  "detail": "Penalty defaults are purposefully set at what the parties would not want, to push at least one party to contract around them and reveal information. The U.C.C.'s zero-quantity default is the authors' own example: 'what we term a penalty default'.",
+  "year": "1989",
+  "note": "Opened the article full text (Queen's and Ryan Safner PDFs; same text as ianayres.yale.edu): confirmed 'The U.C.C.'s zero-quantity default is what we term a \"penalty default\"' (p. 97). Dropped the unverified clause that they warn against defaults that reduce useful information."
+ },
+ {
+  "id": "fuller",
+  "status": "verified",
+  "detail": "Replying to Hart, Fuller asks whether a working World War II truck mounted on a pedestal as a war memorial falls under a 'no vehicles in the park' rule, and argues a rule cannot be applied without looking to its purpose, not just the word's core meaning.",
+  "year": "1958",
+  "note": "Opened Schauer, NYU L. Rev. 83, and Struchiner & Hannikainen 2023, both quoting Fuller, 71 Harv. L. Rev. 630, 661-69. Matches."
+ },
+ {
+  "id": "llewellyn",
+  "status": "verified",
+  "detail": "Llewellyn sets out canons of statutory construction in two columns, 'thrust but parry', saying there are two opposing canons on almost every point; to make a canon take hold, the construction must be sold by other means, such as the good sense of the situation.",
+  "year": "1950",
+  "note": "Opened the Vanderbilt Law Review full text: quote about two opposing canons and being 'sold, essentially, by means other than the use of the canon' matches."
+ },
+ {
+  "id": "scenes",
+  "status": "scoped",
+  "detail": "Scenes a faire are elements customary in a genre and so not protectable by copyright, under the idea/expression distinction; the rationale is that letting one author monopolise them would harm later authors and the public domain.",
+  "year": "n.d.",
+  "note": "Opened a University of Michigan copyright guide and Houston Law Review article (Said 2023). Dropped the claim that specific sequences and arrangements remain protectable; not checked against case law. No date is claimed for the doctrine."
+ },
+ {
+  "id": "grice",
+  "status": "verified",
+  "detail": "Grice proposes a cooperative principle with four categories of maxims (quantity, quality, relation, manner); when a speaker apparently breaks one, the hearer infers a meaning beyond what is said, called a conversational implicature.",
+  "year": "1975",
+  "note": "Opened the 'Logic and Conversation' text (sfu.ca copy): cooperative principle and four categories confirmed. The flouting-to-implicature step is standard in the same paper; not re-read in full."
+ },
+ {
+  "id": "rosch",
+  "status": "scoped",
+  "detail": "Rosch and Mervis found that items rated most prototypical share the most attributes with others in their category and the fewest with contrasting categories. In artificial categories, family resemblance went along with ease of learning and reaction time.",
+  "year": "1975",
+  "note": "Opened the paper abstract and discussion. Reworded 'ratings predict performance' to 'went along with', matching the correlational result."
+ },
+ {
+  "id": "kruglanski",
+  "status": "scoped",
+  "detail": "The need for closure is a desire for definite knowledge, driven by an urgency tendency to reach closure quickly and a permanence tendency to maintain it as long as possible; it varies between people and situations.",
+  "year": "1996",
+  "note": "Opened the PubMed abstract. Dropped 'seize on early information and become impervious to later data', which the abstract does not say."
+ },
+ {
+  "id": "goel",
+  "status": "scoped",
+  "detail": "In Goel's protocol study of nine expert designers, freehand sketching gave more lateral transformations per session than a grid-bound MacDraw package: 8.9 against 3.2 syntactic, 8.0 against 3.9 semantic, with more reinterpretations of earlier drawings. Tests were one-tailed.",
+  "year": "1992",
+  "note": "Opened the 1992 CogSci paper PDF (Tables 1-2). Numbers are means per one-hour session, one-tailed p<.05; the book Sketches of Thought (1995) was not opened, so year set to the paper's."
+ },
+ {
+  "id": "buxton",
+  "status": "verified",
+  "detail": "Buxton lists eleven attributes of a sketch, among them quick, inexpensive, disposable, plentiful, ambiguous, minimal detail, and 'suggest and explore rather than confirm'. He distinguishes sketches from prototypes by intent: invite, suggest, question versus attend, describe, answer.",
+  "year": "2007",
+  "note": "Opened Buxton's essay (CMU PDF) with the intent table, and Miksovsky's page listing the eleven attributes from book pp.111-2. Matches."
+ },
+ {
+  "id": "tohidi",
+  "status": "verified",
+  "detail": "Users who saw one interface rated it higher and criticised it less than users who saw the same design among three. None of the 36 who saw a single prototype rejected it; 3 of 12 in the multiple condition explicitly rejected one.",
+  "year": "2006",
+  "note": "Opened the CHI 2006 PDF and abstract. Matches."
+ },
+ {
+  "id": "dow_parallel",
+  "status": "scoped",
+  "detail": "In a 33-person study of web banner ads, participants who made several prototypes before feedback beat serial makers on click-through, time on the client's site and ratings, and their prototypes were rated more diverse. Participants with prior design experience made less diverse ads than novices.",
+  "year": "2010",
+  "note": "Opened the TOCHI full text and ACM abstract. Changed 'experienced designers' to 'participants with prior design experience' (about half the sample); all participants were independent novice designers by recruitment."
+ },
+ {
+  "id": "stiny",
+  "status": "verified",
+  "detail": "Stiny argues that seeing shapes, with all their changeability and ambiguity, is an inexhaustible source of creative ideas, and that designing is calculating with shapes, by rules, without equations or numbers.",
+  "year": "2006",
+  "note": "Opened the MIT Press description (verbatim basis). Publisher description only; book not read."
+ },
+ {
+  "id": "koning",
+  "status": "verified",
+  "detail": "A parametric shape grammar, built from a corpus of eleven Frank Lloyd Wright houses from Winslow to Robie, centres on a fireplace and recursively adds blocks; the authors show three new prairie houses it generates.",
+  "year": "1981",
+  "note": "Opened the abstract and the CMU PDF of the paper. Matches."
+ },
+ {
+  "id": "lawson",
+  "status": "scoped",
+  "detail": "Lawson sorts design constraints by who generates them (legislators, users, clients, designers), by domain (internal or external) and by function (radical, practical, formal, symbolic), forming a cube-like model of thirty-two boxes.",
+  "year": "1980",
+  "note": "Opened Halskov & Biskjaer 2013 (describes the model), Lawson's chapter abstract, and the 4th-edition contents. Dropped the claim that legislators' constraints are most rigid and designers' most open; not confirmed. 1980 is the first edition (not opened)."
+ },
+ {
+  "id": "dorst_cross",
+  "status": "verified",
+  "detail": "From protocol studies of nine experienced industrial designers, the authors confirm a model in which problem and solution spaces co-evolve, and propose refining it with 'default' and 'surprise' problem and solution spaces.",
+  "year": "2001",
+  "note": "Opened ScienceDirect abstract and full-text PDF intro (nine designers with 5-20 years' experience). Matches."
+ },
+ {
+  "id": "gtheory",
+  "status": "verified",
+  "detail": "Generalizability theory estimates variance components for each facet, such as raters or occasions, in a G study, then a D study estimates how well scores would generalize under another design, for example with different raters.",
+  "year": "1972",
+  "note": "Opened the 1972 book text (gwern PDF): G study estimates components of variance by facet; D study evaluates designs; raters example. Matches."
+ },
+ {
+  "id": "mapelites",
+  "status": "verified",
+  "detail": "MAP-Elites builds a map of high-performing solutions at each point in a space whose dimensions the user chooses, returning many different good solutions, and tended to find a better single solution than state-of-the-art search algorithms.",
+  "year": "2015",
+  "note": "Opened arXiv abstract. Matches."
+ },
+ {
+  "id": "vendi",
+  "status": "verified",
+  "detail": "The Vendi Score is the exponential of the Shannon entropy of the eigenvalues of a similarity matrix, so the user's own similarity function defines what counts as diverse and no reference set is needed.",
+  "year": "2022",
+  "note": "Opened arXiv abstract. Matches."
+ },
+ {
+  "id": "verbalized",
+  "status": "verified",
+  "detail": "The authors trace mode collapse partly to annotators favouring familiar text, and propose prompting the model to verbalize several responses with probabilities. In creative writing this raised diversity by 1.6 to 2.1 times, and more capable models benefited more.",
+  "year": "2025",
+  "note": "Opened arXiv abstract (v3). Matches."
+ },
+ {
+  "id": "semantic_entropy",
+  "status": "verified",
+  "detail": "Sampled answers are grouped by meaning, then entropy is computed over the groups. High semantic entropy flags confabulations: averaged over 30 task and model combinations it reached AUROC 0.790 against 0.691 for naive entropy.",
+  "year": "2024",
+  "note": "Opened the Nature article full text. Numbers match; the 30 combinations are 5 datasets with sentence-length answers and models up to 70B."
+ },
+ {
+  "id": "ambient",
+  "status": "verified",
+  "detail": "AmbigQA found over half of 14,042 NQ-open questions ambiguous. AmbiEnt has 1,645 linguist-annotated examples; GPT-4's generated disambiguations were judged correct 32% of the time against 90% for the dataset's.",
+  "year": "2023",
+  "note": "Opened both arXiv abstracts (AmbigQA 2020; AmbiEnt 2023). Matches; year is the AmbiEnt paper's."
+ },
+ {
+  "id": "hekkert",
+  "status": "verified",
+  "detail": "In three studies of consumer products, typicality and novelty were jointly and about equally effective in explaining aesthetic preference but suppressed each other: direct correlations with liking were not significant until the other variable was partialed out.",
+  "year": "2003",
+  "note": "Opened the abstract (PubMed/Wiley). Matches."
+ },
+ {
+  "id": "west_potts",
+  "status": "verified",
+  "detail": "Aligned models prefer '7' in random numbers, become almost fully predictable in some game states and favour pleasant writing over creative originality. Better performance on common benchmarks tended to go with worse performance on these tasks.",
+  "year": "2025",
+  "note": "Opened arXiv abstract. Matches."
+ },
+ {
+  "id": "kleinberg",
+  "status": "verified",
+  "detail": "Kleinberg and Raghavan model many decision-makers relying on one algorithm and show that, even without shocks and even when it is more accurate for any one agent alone, the group's overall decision quality can fall.",
+  "year": "2021",
+  "note": "Opened PNAS abstract and significance statement. Matches."
+ },
+ {
+  "id": "bommasani",
+  "status": "verified",
+  "detail": "Bommasani and colleagues find that sharing training data reliably exacerbates outcome homogenization, so the same individuals fail across decision-makers; sharing a foundation model gave mixed results, depending heavily on how the model was adapted.",
+  "year": "2022",
+  "note": "Opened arXiv abstract. Matches."
+ },
+ {
+  "id": "panickssery",
+  "status": "scoped",
+  "detail": "LLM judges score their own outputs higher while human annotators rate them equal. Out of the box, models like GPT-4 and Llama 2 tell their own text from others' with non-trivial accuracy; fine-tuning shows a linear link between self-recognition and the strength of self-preference.",
+  "year": "2024",
+  "note": "Opened arXiv abstract. Changed 'they can tell their own text' to 'with non-trivial accuracy', as the abstract says."
+ },
+ {
+  "id": "simmel",
+  "status": "verified",
+  "detail": "Simmel writes that fashion, the latest fashion, affects only the upper classes; as soon as lower classes copy a style, the upper classes turn away from it and adopt a new one, so the game goes on.",
+  "year": "1904",
+  "note": "Opened the 1904 essay PDF (first pages) and a secondary text quoting the passage verbatim (p.545 of the reprint). The passage itself was read via the quotation."
+ },
+ {
+  "id": "salganik",
+  "status": "verified",
+  "detail": "In an artificial music market of 14,341 participants, stronger social influence raised both inequality and unpredictability of success. Quality counted only partly: the best songs rarely did poorly and the worst rarely did well, but anything in between was possible.",
+  "year": "2006",
+  "note": "Opened the Science abstract. Matches."
+ },
+ {
+  "id": "zajonc",
+  "status": "scoped",
+  "detail": "Zajonc offers the hypothesis that mere repeated exposure to a stimulus enhances attitude toward it, and reviews four types of evidence. In the word data, affective connotation was a linear function of the logarithm of exposure frequency.",
+  "year": "1968",
+  "note": "Opened the monograph text (MIT and Michigan copies). Dropped the claim that the effect should be larger for novel than familiar objects, which I did not find. Log relation confirmed in the text; Zajonc cautions it may break down under other conditions."
+ },
+ {
+  "id": "sibley",
+  "status": "verified",
+  "detail": "Sibley holds that aesthetic terms such as balanced or serene are not condition-governed: no set of non-aesthetic features logically warrants applying them, so one has to look and see for oneself.",
+  "year": "1959",
+  "note": "Opened SEP 'The Concept of the Aesthetic' (quotes Sibley: 'One has to look and see') and IEP. Secondary sources; paper itself not opened."
+ },
+ {
+  "id": "campbell_bvsr",
+  "status": "verified",
+  "detail": "Campbell framed creative thought as variation plus selective retention. Simonton's study of ten psychologists found a constant probability of success per work, but Simonton himself later says that rule is not Campbell's claim and does not test the theory.",
+  "year": "1960",
+  "note": "Opened the Simonton 1986 abstract and Simonton 2022 review text. Review says the rule 'cannot be taken as directly relevant' and that Campbell made no comparable claim. Campbell 1960 itself not opened."
+ },
+ {
+  "id": "march91",
+  "status": "scoped",
+  "detail": "In March's model, slower socialization into the organizational code leaves more diversity and gives higher equilibrium knowledge. When socialization is fast, moderate turnover improves the code by bringing in less socialized people, whose value comes from diversity, not knowledge.",
+  "year": "1991",
+  "note": "Opened the full paper PDF (Figure 1, turnover section). Added the condition: with slow socialization, turnover lowers code knowledge."
+ },
+ {
+  "id": "lazer",
+  "status": "verified",
+  "detail": "In a simulation of agents copying the more successful, an efficient network gave better short-run but worse long-run results on complex problems; inefficient networks kept diversity, and moderate connectedness did best at intermediate times.",
+  "year": "2007",
+  "note": "Opened the ASQ abstract. Matches; simulation result."
+ },
+ {
+  "id": "daft_lengel",
+  "status": "verified",
+  "detail": "Daft and Lengel define uncertainty and equivocality as two forces that shape information processing in organizations, and conclude that a major managerial problem is lack of clarity, not lack of data.",
+  "year": "1986",
+  "note": "Opened the Management Science abstract. Matches."
+ },
+ {
+  "id": "star",
+  "status": "verified",
+  "detail": "Star and Griesemer, studying Berkeley's Museum of Vertebrate Zoology, say boundary objects are adaptable to different viewpoints and robust enough to keep identity across them; they distinguish four types: repositories, ideal types, coincident boundaries and standardized forms.",
+  "year": "1989",
+  "note": "Opened the abstract. Matches."
+ },
+ {
+  "id": "garbagecan",
+  "status": "verified",
+  "detail": "Cohen, March and Olsen describe organized anarchies with problematic preferences, unclear technology and fluid participation, as choices looking for problems, solutions looking for issues and decision makers looking for work, then simulate the process.",
+  "year": "1972",
+  "note": "Opened the ASQ abstract. Matches."
+ },
+ {
+  "id": "weick",
+  "status": "scoped",
+  "detail": "Weick proposes that organizational elements are often tied together frequently but loosely, rather than by dense tight linkages, and argues the concept accounts for many odd observations in educational organizations.",
+  "year": "1976",
+  "note": "Opened the ASQ abstract. Dropped the claim that he later links it to self-determination and local adaptation (from the Citation Classic note, not opened)."
+ },
+ {
+  "id": "pickering",
+  "status": "scoped",
+  "detail": "Pickering describes science as a field of emergent human and material agency reciprocally engaged through a dialectic of resistance and accommodation, the mangle; his 1995 book stresses practice that is open to change and shaped in unforeseeable ways.",
+  "year": "1995",
+  "note": "Opened the 1993 AJS abstract and the University of Chicago Press description of the 1995 book. The phrase 'dance of agency' was not seen in what I opened, so it is dropped."
+ },
+ {
+  "id": "malafouris",
+  "status": "verified",
+  "detail": "Malafouris proposes Material Engagement Theory, which adds materiality (things, artifacts and material signs) into the account of cognition and treats things as cognitive extensions of the human body rather than the mind being all in the head.",
+  "year": "2013",
+  "note": "Opened the MIT Press description. Publisher description only; book not read."
+ }
+]

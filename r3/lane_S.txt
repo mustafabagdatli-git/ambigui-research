@@ -1,0 +1,22 @@
+LANE S — Buildings, play and teams
+venturi | Robert Venturi, Complexity and Contradiction in Architecture (1966) | "Both-and" over "either-or"; ambiguity valued; "less is a bore."
+aravena | Alejandro Aravena / Elemental, Quinta Monroy incremental "half houses" (Iquique 2004) | Build the half families can't, leave the other half for them to complete.
+brand_pace | Stewart Brand, How Buildings Learn (1994) shearing layers; pace layering (Clock of the Long Now 1999) | Layers change at different rates.
+supernormal | Naoto Fukasawa & Jasper Morrison, Super Normal (2006) | Celebrating ordinary objects that work.
+mullerb | Josef Müller-Brockmann, Grid Systems in Graphic Design (1981) | The grid as an ordering system for the designer.
+vignelli | Massimo Vignelli, The Vignelli Canon (2010) | Few typefaces, discipline, timelessness.
+dynid | Dynamic visual identities (MIT Media Lab 2011 by TheGreenEyl/E Roon Kang; Casa da Música by Sagmeister 2007) | Identity as a generative system producing variants.
+suits | Bernard Suits, The Grasshopper (1978) | Playing a game is the voluntary attempt to overcome unnecessary obstacles; lusory attitude.
+caillois | Roger Caillois, Man, Play and Games (1958/61) | Paidia (free play) to ludus (rule-bound); agon, alea, mimicry, ilinx.
+costikyan | Greg Costikyan, Uncertainty in Games (2013) | Taxonomy of sources of uncertainty in games.
+nomic | Peter Suber, Nomic (1982) | A game in which changing the rules is a move.
+akrich | Madeleine Akrich, The De-Scription of Technical Objects (1992) | Designers inscribe scripts into objects; users follow, adapt or resist (de-scription).
+bricoleur | Lévi-Strauss, The Savage Mind (1962), the bricoleur | Bricoleur works with a heterogeneous set of means at hand vs engineer's purpose-made tools.
+fox | Renée Fox, Training for Uncertainty (1957) | Medical students learn to cope with uncertainty from own limits, the field's limits, and telling them apart.
+horvitz | Eric Horvitz, Principles of mixed-initiative user interfaces (CHI 1999) | 12 principles; act under uncertainty using expected utility; dialog to resolve uncertainty.
+amershi | Amershi et al., Guidelines for Human-AI Interaction (CHI 2019) | 18 guidelines, validated with practitioners.
+klein_team | Klein, Woods, Bradshaw, Hoffman & Feltovich, Ten challenges for making automation a "team player" (IEEE IS 2004) | Basic compact, common ground, predictability, directability.
+stigmergy | Grassé (1959) stigmergy; Heylighen (2016) | Coordination through traces left in a shared environment.
+blackboard | Hearsay-II blackboard architecture (Erman et al. 1980) | Independent knowledge sources communicate only through a shared blackboard.
+lerman | Liz Lerman, Critical Response Process (1990s; book 2003) | Steps: statements of meaning, artist as questioner, neutral questions, permissioned opinions.
+braintrust | Pixar Braintrust (Ed Catmull, Creativity, Inc. 2014) | Peer critique without authority to mandate changes.

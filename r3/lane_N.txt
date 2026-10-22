@@ -1,0 +1,18 @@
+LANE N — Tolerances, defaults and specs
+tolerance | Engineering tolerancing / GD&T (ASME Y14.5) and tolerance stack-up | A dimension is specified as a band; stacked tolerances can add up to an assembly that fails even when every part is in tolerance.
+setbased | Sobek, Ward & Liker, Toyota's principles of set-based concurrent engineering (Sloan Mgmt Review 1999) | Carry sets of alternatives, narrow them gradually, delay commitment.
+lrm | "Last responsible moment" (Poppendieck, Lean Software Development 2003) | Delay commitment until the cost of not deciding exceeds the cost of deciding.
+taguchi | Taguchi robust design / parameter design | Separate control factors from noise factors; choose settings so output is insensitive to noise.
+baldwin_clark | Baldwin & Clark, Design Rules: The Power of Modularity (2000) | Visible design rules vs hidden design parameters; modularity creates option value.
+parnas | Parnas, On the criteria to be used in decomposing systems into modules (1972) | Decompose by hiding design decisions likely to change.
+gause_weinberg | Gause & Weinberg, Exploring Requirements (1989) | Ambiguity poll (independent answers, clustered, as an ambiguity metric); "Mary had a little lamb" heuristic.
+ird | Hadfield-Menell et al., Inverse Reward Design (NeurIPS 2017) | Treat the designed reward as evidence about the intended reward in the training environment, not as the literal goal.
+offswitch | Hadfield-Menell, Dragan, Abbeel & Russell, The Off-Switch Game (2017) | An agent uncertain about its objective has an incentive to let a human switch it off.
+goalmisgen | Goal misgeneralization (Langosco et al. 2022; Shah et al. 2022) | Agent learns a goal consistent with training spec/reward that is wrong out of distribution, while staying capable.
+ayres_gertner | Ayres & Gertner, Filling Gaps in Incomplete Contracts (Yale LJ 1989) | Penalty defaults are set at what parties would not want so they reveal information; UCC zero-quantity default as example.
+fuller | Lon Fuller, Positivism and Fidelity to Law (Harvard LR 1958) | Reply to Hart's "no vehicles in the park": meaning of a rule depends on its purpose (war-memorial truck).
+llewellyn | Karl Llewellyn, canons of construction "thrust and parry" (Vanderbilt LR 1950) | For each canon of statutory interpretation there is an opposing one.
+scenes | Scènes à faire doctrine (copyright) | Stock elements standard for a genre are not protectable expression.
+grice | Paul Grice, Logic and Conversation (1975) | Cooperative principle and maxims; implicature: what is meant beyond what is said.
+rosch | Eleanor Rosch, prototype theory (1975) | Categories have graded structure around prototypes; typical members are processed faster and named first.
+kruglanski | Kruglanski & Webster, need for cognitive closure (1996) | Desire for a firm answer over ambiguity; "seizing" and "freezing."

@@ -1,0 +1,50 @@
+{
+ "dark.json": {
+  "has_h1": true,
+  "h1font": "system-ui, sans-serif",
+  "h1size": 48,
+  "V2": false,
+  "V3": false,
+  "V3t": "",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   17,
+   17,
+   17
+  ],
+  "V5": false
+ },
+ "neg.json": {
+  "has_h1": true,
+  "h1font": "Helvetica, Arial, sans-serif",
+  "h1size": 56,
+  "V2": false,
+  "V3": false,
+  "V3t": "",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "pos.json": {
+  "has_h1": true,
+  "h1font": "Georgia, serif",
+  "h1size": 56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   236,
+   220
+  ],
+  "V5": true
+ }
+}

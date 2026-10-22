@@ -1,0 +1,274 @@
+[
+ {
+  "id": "tolerance",
+  "label": "Bands and stack-ups, GD&T",
+  "year": "2007",
+  "thread": "diverge",
+  "detail": "A dimension is not set to a point but to an allowed zone, and the unspecified distance across an assembly accumulates the contributors' variation; worst-case analysis guarantees assembly but is costly, while statistical analysis accepts about 99.97% for looser tolerances.",
+  "links": [
+   "statesgap",
+   "swatch",
+   "signature"
+  ],
+  "lane": "N",
+  "opened": "secondary - Piegl, 'Navigating the Tolerance Analysis Maze', CAD&A 4(5) 2007 (cad-journal.net/files/vol_4/CAD_4(5)_2007_705-718.pdf); abstract of Fischer, Worst-Case Tolerance Analysis. ASME Y14.5 text itself not read",
+  "claim_check": "narrower: stack-up accumulation and worst-case vs statistical confirmed; the 'parts in tolerance yet assembly fails' wording is my gloss (statistical analysis explicitly accepts some rejects), and Y14.5 itself was not opened",
+  "implication": "A 'band' line should carry its width, and the spread of several lines read together has to be checked as a stack, not line by line."
+ },
+ {
+  "id": "setbased",
+  "label": "Sets narrowed gradually, Sobek, Ward & Liker",
+  "year": "1999",
+  "thread": "diverge",
+  "detail": "Toyota's set-based approach starts by broadly considering sets of possible solutions in parallel, then gradually narrows them to converge; the authors give three principles, the last being feasibility before commitment.",
+  "links": [
+   "plan",
+   "divdec",
+   "statesgap"
+  ],
+  "lane": "N",
+  "opened": "abstract and opening of the article - Sloan Management Review 40(2), Winter 1999 (sloanreview.mit.edu; abstract via dialnet.unirioja.es)",
+  "claim_check": "confirmed",
+  "implication": "Letting performers return sets of variants and narrowing lines stepwise (open, then band, then fixed) matches this; the default is to commit to one point early."
+ },
+ {
+  "id": "lrm",
+  "label": "Last responsible moment, Poppendieck",
+  "year": "2003",
+  "thread": "diverge",
+  "detail": "The Poppendiecks define the last responsible moment as the moment at which failing to make a decision eliminates an important alternative; past it, decisions are made by default. They credit the term to the Lean Construction Institute and warn delay is not procrastination.",
+  "links": [
+   "statesgap",
+   "divdec",
+   "oneq"
+  ],
+  "lane": "N",
+  "opened": "full text of Lean Software Development ch. 3 sample pages (ptgmedia.pearsoncmg.com/images/9780321150783/samplepages/0321150783.pdf); quote repeated at codinghorror.com",
+  "claim_check": "corrected: the definition is 'the moment at which failing to make a decision eliminates an important alternative', not a cost comparison; the term is credited in their footnote 16 to the Lean Construction Institute, not coined by them",
+  "implication": "An 'open' line needs a stated trigger, the point at which leaving it open removes an option; without one it silently becomes a 'default'."
+ },
+ {
+  "id": "taguchi",
+  "label": "Control vs noise factors, Taguchi",
+  "year": "mid-1980s",
+  "thread": "same",
+  "detail": "Robust parameter design splits inputs into control factors and noise factors, and picks control settings that make output less sensitive to noise; ISO 16336 defines robust as insensitive to changes in noise levels. Popularized by Taguchi in the mid 1980s.",
+  "links": [
+   "swatch",
+   "signature",
+   "m56"
+  ],
+  "lane": "N",
+  "opened": "abstracts - Wu & Hamada, Introduction to Robust Parameter Design (Wiley 2021); Robinson, Borror & Myers, Quality & Reliability Eng. Intl 2003; ISO 16336:2014 page",
+  "claim_check": "confirmed",
+  "implication": "Treat the brief and score as control factors and the model and run-to-run variation as noise; judge a score by whether its output holds when the performer changes."
+ },
+ {
+  "id": "baldwin_clark",
+  "label": "Visible rules, hidden parameters, Baldwin & Clark",
+  "year": "2000",
+  "thread": "diverge",
+  "detail": "Modular designs split into visible design rules that every module must obey and hidden modules whose internal choices affect no others; hidden modules are the main source of option value, because they can be replaced with better solutions later.",
+  "links": [
+   "statesgap",
+   "diagram",
+   "specgap"
+  ],
+  "lane": "N",
+  "opened": "secondary - Baldwin & Clark, 'Modularity after the Crash' (hbs.edu) and their chapter 'Modularity in the Design of Complex Engineering Systems'; book itself not opened",
+  "claim_check": "confirmed (via the authors' own later texts; the 2000 MIT Press book was not read)",
+  "implication": "Fixed lines act as visible rules for all performers; open lines are the hidden part where performers may differ without breaking the whole."
+ },
+ {
+  "id": "parnas",
+  "label": "Hide what will change, Parnas",
+  "year": "1972",
+  "thread": "diverge",
+  "detail": "Parnas argues that decomposition should not follow a flowchart: begin with a list of difficult design decisions or ones likely to change, and make each module hide one such decision from the others.",
+  "links": [
+   "specgap",
+   "statesgap",
+   "divdec"
+  ],
+  "lane": "N",
+  "opened": "full text - Communications of the ACM 15(12), Dec 1972 (wstomv.win.tue.nl copy; abstract at dl.acm.org/doi/10.1145/361598.361623)",
+  "claim_check": "confirmed",
+  "implication": "Mark on the score which decisions are likely to change and keep them out of what other parts depend on."
+ },
+ {
+  "id": "gause_weinberg",
+  "label": "Ambiguity poll, Gause & Weinberg",
+  "year": "1989",
+  "thread": "diverge",
+  "detail": "Exploring Requirements lists an ambiguity poll and a 'Mary had a little lamb' heuristic: stress each word of a statement in turn and see what it could mean. A lecture summary shows 100 people's first answers clustering into a few groups.",
+  "links": [
+   "sampled",
+   "agreeno",
+   "divdec"
+  ],
+  "lane": "N",
+  "opened": "secondary - Dorset House table of contents (dorsethouse.com/books/ercontents.html) and a course slide deck summarizing the book (slideum.com); book text not opened",
+  "claim_check": "narrower: the poll and the lamb heuristic are in the book's contents; clustering of answers is shown in the slides, but I did not see the book call it an ambiguity metric",
+  "implication": "Count how many distinct readings independent performers give, and use the stress-each-word trick on a score line to write the questions it implies."
+ },
+ {
+  "id": "ird",
+  "label": "Reward as evidence, Hadfield-Menell et al.",
+  "year": "2017",
+  "thread": "level",
+  "detail": "The paper treats a designed reward as an observation about what the designer wants, to be read in the context of the training environment it was designed for, and uses that to plan risk-averse behavior in new environments.",
+  "links": [
+   "dirlevel",
+   "goal",
+   "specgap"
+  ],
+  "lane": "N",
+  "opened": "abstract - arXiv:1711.02827 (NeurIPS 2017)",
+  "claim_check": "confirmed",
+  "implication": "Read a score as evidence about the intended look in the cases the author imagined, and keep cautious choices for what the score never covered."
+ },
+ {
+  "id": "offswitch",
+  "label": "Uncertainty keeps the switch, Hadfield-Menell et al.",
+  "year": "2017",
+  "thread": "human",
+  "detail": "In a game between a human and a robot, an agent that takes its reward as given has an incentive to disable the off switch unless the human is perfectly rational; an agent uncertain about the utility treats the human's actions as observations and keeps the switch.",
+  "links": [
+   "monitor",
+   "oneq",
+   "yes"
+  ],
+  "lane": "N",
+  "opened": "abstract - arXiv:1611.08219, version 3 (2017)",
+  "claim_check": "narrower: right in outline, but the result is for a simple human-robot game and the abstract frames it as uncertainty plus treating human actions as information",
+  "implication": "A stop control that is also an input: a performer should read an interrupt or a rejected line as information about what you want, not as an obstacle."
+ },
+ {
+  "id": "goalmisgen",
+  "label": "Wrong goal out of distribution, Langosco et al.",
+  "year": "2022",
+  "thread": "level",
+  "detail": "In goal misgeneralization an RL agent keeps its capabilities out of distribution but pursues the wrong goal. Shah et al. add that it can happen even when the specification is correct, giving examples from several kinds of deep learning systems.",
+  "links": [
+   "goal",
+   "agreeno",
+   "dirlevel"
+  ],
+  "lane": "N",
+  "opened": "abstracts - arXiv:2105.14111 (Langosco et al., ICML 2022) and arXiv:2210.01790 (Shah et al., 2022)",
+  "claim_check": "narrower: confirmed, but Shah et al. stress it arises even with a correct specification, not only a 'training spec' that happens to be wrong",
+  "implication": "A performer that passes the score on the cases shown may still be pursuing a different goal; test on a line the score never covered."
+ },
+ {
+  "id": "ayres_gertner",
+  "label": "Penalty defaults, Ayres & Gertner",
+  "year": "1989",
+  "thread": "same",
+  "detail": "Penalty defaults are purposefully set at what the parties would not want, to push at least one party to contract around them and reveal information; the zero-quantity default is given as an example. They also warn against defaults that reduce useful information.",
+  "links": [
+   "statesgap",
+   "unsaid",
+   "namedef"
+  ],
+  "lane": "N",
+  "opened": "full text excerpts - Yale Law Journal 99 (1989), copy at ianayres.yale.edu and doi.org/10.2307/796722",
+  "claim_check": "narrower: penalty default and zero-quantity example confirmed; I did not see the passage tying zero quantity to a UCC section, though UCC warranty defaults are named as penalty defaults",
+  "implication": "A 'default' line could be set deliberately to something nobody wants, so a performer that keeps it has to say so."
+ },
+ {
+  "id": "fuller",
+  "label": "Purpose decides the rule, Fuller",
+  "year": "1958",
+  "thread": "history",
+  "detail": "Replying to Hart, Fuller asks whether a working World War II truck mounted as a war memorial breaks a 'no vehicles in the park' rule, and argues that applying a rule always needs its purpose, not just the word's core meaning.",
+  "links": [
+   "plainlines",
+   "pscore",
+   "specgap"
+  ],
+  "lane": "N",
+  "opened": "full text excerpt - Harvard Law Review 71(4):630 (1958) (NYU copy), plus Struchiner & Hannikainen, Judgment and Decision Making 2023, and Schauer, NYU Law Review 83",
+  "claim_check": "confirmed",
+  "implication": "Each fixed line should state its purpose, so a performer can see which edge cases the line was meant to cover."
+ },
+ {
+  "id": "llewellyn",
+  "label": "Canons thrust and parry, Llewellyn",
+  "year": "1950",
+  "thread": "diverge",
+  "detail": "Llewellyn lists canons of statutory construction in two columns, 'thrust but parry', and says there are two opposing canons on almost every point; to make a canon take hold, the construction has to be sold by other means such as the sense of the situation.",
+  "links": [
+   "plainlines",
+   "namedef",
+   "agreeno"
+  ],
+  "lane": "N",
+  "opened": "full text - Vanderbilt Law Review 3:395 (1950) (scholarship.law.vanderbilt.edu)",
+  "claim_check": "narrower: confirmed for the listed canons; the heading reads 'Thrust but parry', and the claim is 'almost every point', not literally every canon",
+  "implication": "A rule-style line is cheap to counter with an opposite rule; give each fixed line its reason, as the canons show a bare rule settles little."
+ },
+ {
+  "id": "scenes",
+  "label": "Stock elements unprotected, scenes a faire",
+  "year": "n.d.",
+  "thread": "same",
+  "detail": "Scenes a faire are elements mandated by or customary to a genre, so they are not protected by copyright; specific sequences and arrangements of them can be. The rationale is that exclusivity over them would hinder later creators.",
+  "links": [
+   "unsaid",
+   "plainuni",
+   "lookholds"
+  ],
+  "lane": "N",
+  "opened": "secondary - Wikipedia 'Scenes a faire' (en.wikipedia.org); case law not opened",
+  "claim_check": "narrower: stock elements unprotectable confirmed, but the page notes protection can attach to particular sequences and compositions of them",
+  "implication": "The shared AI habits read as genre stock elements: they are expected, so nothing marks them as chosen unless the score says so."
+ },
+ {
+  "id": "grice",
+  "label": "Cooperative principle, Grice",
+  "year": "1975",
+  "thread": "same",
+  "detail": "Grice proposes a cooperative principle with four categories of maxims (quantity, quality, relation, manner); when a speaker apparently breaks one, the hearer infers a meaning beyond what is said, called a conversational implicature.",
+  "links": [
+   "unsaid",
+   "namedef",
+   "oneq"
+  ],
+  "lane": "N",
+  "opened": "primary excerpt - 'Logic and Conversation' (1975, sfu.ca copy) and Stanford Encyclopedia of Philosophy, 'Implicature'",
+  "claim_check": "confirmed",
+  "implication": "What a score leaves unsaid is read by performers as implied; the quantity maxim says to say enough, and no more, in each score line."
+ },
+ {
+  "id": "rosch",
+  "label": "Prototypes and typicality, Rosch",
+  "year": "1975",
+  "thread": "same",
+  "detail": "Rosch and Mervis find that items rated most prototypical share the most attributes with their own category and least with others, and that such ratings predict performance in tasks; in learning experiments family resemblance went with ease of learning and reaction time.",
+  "links": [
+   "avgtaste",
+   "flatten",
+   "signature"
+  ],
+  "lane": "N",
+  "opened": "secondary - Rosch & Mervis, 'Family Resemblances', Cognitive Psychology 7 (1975), full text; Rosch's 'Cognitive representations of semantic categories' (JEP General 104) abstract not opened",
+  "claim_check": "narrower: graded structure and speed effects are supported by Rosch & Mervis, a companion paper; 'named first' for typical members was not seen in what I opened",
+  "implication": "The most typical output is the cheapest to produce, which fits the one averaged taste; a performer will reach for the prototype unless the score names a different one."
+ },
+ {
+  "id": "kruglanski",
+  "label": "Seizing and freezing, Kruglanski & Webster",
+  "year": "1996",
+  "thread": "human",
+  "detail": "The need for closure is a desire for definite knowledge, with an urgency tendency to seize closure quickly and a permanence tendency to freeze on it; people with a high need seize on early information and become impervious to later data.",
+  "links": [
+   "yes",
+   "oneq",
+   "divdec"
+  ],
+  "lane": "N",
+  "opened": "abstract and excerpts - Psychological Review 103(2):263-283 (PubMed 8637961; full text at kruglanskiarie.com)",
+  "claim_check": "confirmed",
+  "implication": "A reviewer pressed for a verdict will take the first reading and hold it, so ask one question at a time and show a divergence before anyone has settled."
+ }
+]

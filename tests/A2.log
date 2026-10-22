@@ -1,0 +1,3 @@
+rerunning 21
+done 21 cost $0.250
+Counter({('vs', 'stop'): 11, ('direct', 'stop'): 10})

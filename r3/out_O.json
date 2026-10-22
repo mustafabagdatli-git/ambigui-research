@@ -1,0 +1,290 @@
+[
+ {
+  "id": "remediation",
+  "label": "Remediation, Bolter & Grusin",
+  "year": "1999",
+  "thread": "same",
+  "detail": "The authors say media are understood by how they refashion earlier media. They call this remediation and pair two logics: immediacy (the medium tries to vanish) and hypermediacy (it shows itself). They treat both as practices of specific groups and times, not universal truths.",
+  "links": [
+   "plainuni",
+   "avgtaste",
+   "libex"
+  ],
+  "lane": "O",
+  "opened": "abstract+excerpt of ch.1 \u2014 https://mitpress.mit.edu/9780262522793/remediation/ ; MIT Press sample chapter PDF (mitp-content-server.mit.edu) ; Bolter 2000 abstract https://journals.sagepub.com/doi/10.1177/135485650000600107",
+  "claim_check": "confirmed (immediacy/hypermediacy/remediation as stated; authors explicitly deny they are universal aesthetic truths)",
+  "implication": "A performer's page is a remediation of older web pages; the score should say which logic it wants (page that vanishes vs page that shows its build) so a plain-white default is a choice, not an accident."
+ },
+ {
+  "id": "mcluhan",
+  "label": "The medium is the message, McLuhan",
+  "year": "1964",
+  "thread": "level",
+  "detail": "McLuhan writes that the message of any medium is the change of scale, pace or pattern it introduces into human affairs, whatever its content; the content of any medium is always another medium. The electric light is his example of a medium with no content.",
+  "links": [
+   "unsaid",
+   "plainuni",
+   "knobs"
+  ],
+  "lane": "O",
+  "opened": "full text of chapter 1 \u2014 https://www.mit.edu/~allanmc/mcluhan.mediummessage.pdf",
+  "claim_check": "confirmed (quote is the chapter's opening claim; the source stresses scale/pace/pattern, not just 'form')",
+  "implication": "The medium here is the model plus the brief; sameness across pages is the model's own pattern showing through, so judge the pattern across runs, not the content of any one page."
+ },
+ {
+  "id": "greenberg",
+  "label": "Medium specificity, Greenberg",
+  "year": "1960",
+  "thread": "same",
+  "detail": "Greenberg says each art's proper area of competence coincides with what is unique to its medium, and for painting that was flatness alone. Modernism turned the old limits (flat surface, shape of the support, pigment) into things to acknowledge openly.",
+  "links": [
+   "plainuni",
+   "namedef",
+   "knobs"
+  ],
+  "lane": "O",
+  "opened": "full text \u2014 https://moodle.unifr.ch/pluginfile.php/1400910/mod_resource/content/1/greenberg_modernist_Painting.pdf ; https://www.yorku.ca/yamlau/readings/greenberg_modernistPainting.pdf",
+  "claim_check": "confirmed (he adds that flatness can never be utter flatness; the claim is stated as a simplification by him)",
+  "implication": "A score that names what is unique to a web page (scroll, type, link, state) gives performers a reason to use the medium, rather than the copied hero-plus-pricing shape."
+ },
+ {
+  "id": "krauss",
+  "label": "Medium as conventions, Krauss",
+  "year": "1999",
+  "thread": "level",
+  "detail": "Krauss defines a medium as a set of conventions derived from, but not identical with, the material conditions of a technical support. She uses 'technical support' to avoid reducing medium to physical object, which she blames on a Greenberg reading.",
+  "links": [
+   "unsaid",
+   "diagram",
+   "libex"
+  ],
+  "lane": "O",
+  "opened": "secondary + excerpts \u2014 McQuire, Media Theory journal (quotes Reinventing the Medium, 1999: 296) https://journalcontent.mediatheoryjournal.org/index.php/mt/article/download/1270/839/3942 ; Krauss, Voyage on the North Sea excerpt (ocopy.net PDF) ; Krauss & Frampton, October (kdm.akbild.ac.at)",
+  "claim_check": "narrower: the 'conventions, not physical support' definition is confirmed in her own words; the 1979 'Sculpture in the Expanded Field' part was not opened or checked",
+  "implication": "The shared habits the study counted (label over headline, pricing section) behave like conventions of a medium: learned, judged against, and changeable by naming the replacement, not by hiding the support."
+ },
+ {
+  "id": "eno_studio",
+  "label": "Studio as compositional tool, Eno",
+  "year": "1979",
+  "thread": "human",
+  "detail": "Eno says once tape had more tracks than a band needed, composition became additive: you arrive with a bare skeleton or nothing and build in the studio by adding and removing layers, working directly with sound with no transmission loss.",
+  "links": [
+   "divdec",
+   "subtract",
+   "diff"
+  ],
+  "lane": "O",
+  "opened": "primary lecture text (Downbeat) \u2014 http://www.enoweb.co.uk/interviews/downbeat79.htm ; Bloomsbury chapter record doi 10.5040/9781501318399.ch-022 notes Down Beat 50 (July 1983)",
+  "claim_check": "narrower: confirmed as an additive, in-studio process; the page dates it to a 1979 lecture (New Music America) and the printed Down Beat version to 1983, and also separates 'additive' rock use from his own in-studio composition",
+  "implication": "The performer round is additive studio work; the useful part is his remove step ('taking some of the original things off and seeing what you're left with'), which supports a subtract pass on the score."
+ },
+ {
+  "id": "eno_signature",
+  "label": "Failure becomes signature, Eno",
+  "year": "1996",
+  "thread": "same",
+  "detail": "In a December 1995 diary entry, published as A Year with Swollen Appendices, Eno says what is weird or ugly in a new medium becomes its signature, giving CD distortion and 8-bit sound as examples. He calls it the sound of a medium failing.",
+  "links": [
+   "knobs",
+   "plainuni",
+   "lookholds"
+  ],
+  "lane": "O",
+  "opened": "secondary reprint of the diary entry with copyright note \u2014 https://diariesofnote.com/2023/12/19/the-sound-of-failure/ ; quote pages on Goodreads",
+  "claim_check": "confirmed (wording matches; entry is dated 19 Dec 1995, book 1996)",
+  "implication": "The models' repeated tics (serif plus italic word, label above headline) may be this season's signature; ask whether each is a failure worth keeping or a default to ban."
+ },
+ {
+  "id": "menkman",
+  "label": "Glitch as material, Menkman",
+  "year": "2010",
+  "thread": "observe",
+  "detail": "Menkman argues that the search for a noiseless channel is an ill-fated dogma and every improved medium keeps its own fingerprints of imperfection. She says glitch shows a technology's norms and what goes unsaid, and warns glitches turn into fashion.",
+  "links": [
+   "capture",
+   "check2",
+   "unsaid"
+  ],
+  "lane": "O",
+  "opened": "primary text (Network Cultures reprint of the manifesto; UvA Masters of Media post) \u2014 https://networkcultures.org/_uploads/NN%234_RosaMenkman.pdf ; https://mastersofmedia.hum.uva.nl/2010/02/glitch-studies-manifesto/",
+  "claim_check": "confirmed (claim fits; point 5 adds that glitch becomes fashion, which the lane note omitted)",
+  "implication": "Keep and show the performers' failures (console errors, broken states) as captured material, since they expose what the medium's defaults hide."
+ },
+ {
+  "id": "kuleshov",
+  "label": "Kuleshov effect replications",
+  "year": "1992",
+  "thread": "blind",
+  "detail": "Prince and Hensley (1992) could not confirm the classic result: most viewers saw no emotion in the neutral face. Mobbs et al. (2006) found context changed ratings of identical faces, with fMRI changes. Barratt et al. (2016) concluded some sort of effect exists.",
+  "links": [
+   "blindfirst",
+   "swap",
+   "dated"
+  ],
+  "lane": "O",
+  "opened": "abstracts \u2014 Prince & Hensley https://doi.org/10.2307/1225144 ; Mobbs 2006 https://academic.oup.com/scan/article/1/2/95/2362814 ; Barratt 2016 https://pubmed.ncbi.nlm.nih.gov/27056181/ ; summary in Cao et al. 2024 PLOS One",
+  "claim_check": "narrower: the claim holds only partly; the 1992 replication failed (described as unproven myth), Mobbs and Barratt support a context effect, and Barratt calls it 'some sort of' effect with eye tracking not showing the expected differences",
+  "implication": "The context a reporter sees (the trace ending, the neighbouring page) can shift judgment of identical material, so keep the blind-and-lock step; but the size of the effect is contested, so do not quote one number."
+ },
+ {
+  "id": "albers",
+  "label": "Colour is relative, Albers",
+  "year": "1963",
+  "thread": "blind",
+  "detail": "Albers teaches that one colour can be made to look different by its ground, and two different colours alike. He calls colour the most relative medium in art and says it deceives continually, so seeing must be learned by trial and error.",
+  "links": [
+   "blindfirst",
+   "whocounts",
+   "swap"
+  ],
+  "lane": "O",
+  "opened": "text of original edition (Yale University Press, archive.org copy) \u2014 https://ia600609.us.archive.org/19/items/interaction-of-color-50th-anniversary-edition/9780300179354.pdf",
+  "claim_check": "confirmed (he stresses studying it by exercises, not by colour systems or harmony rules)",
+  "implication": "A judge's reading of a page depends on what sits next to it, so compare pages on identical grounds (same order-shuffled frame) before trusting a visual call."
+ },
+ {
+  "id": "warde",
+  "label": "Printing should be invisible, Warde",
+  "year": "1932",
+  "thread": "level",
+  "detail": "Warde argues that type well used is invisible, like a crystal goblet that reveals the wine; the reader's mental eye should look through type, not at it. She also says fine printing with visible craft is not objectionable.",
+  "links": [
+   "plainuni",
+   "unsaid",
+   "namedef"
+  ],
+  "lane": "O",
+  "opened": "full text (readings.design PDF) and University of Chicago Press excerpt \u2014 https://readings.design/PDF/The%20Crystal%20Goblet.pdf ; https://press.uchicago.edu/Misc/Chicago/791599bw.html",
+  "claim_check": "narrower: invisible type is her main line, but the text says the leaded-pane 'fine printing' window is acceptable; the text notes it was first printed in London in 1932 under the pseudonym Paul Beaujon, with a 1955 version",
+  "implication": "The 'plain' arm (system fonts, white) is Warde's goblet applied to a whole page; her rule is that invisibility must serve the reader, so judge whether plain removed identity, not just defaults."
+ },
+ {
+  "id": "flusser",
+  "label": "Playing against the apparatus, Flusser",
+  "year": "1983",
+  "thread": "same",
+  "detail": "Flusser says photographers play not with the camera but against it, creeping inside to bring out its hidden tricks. The program must be richer than any photographer, or all of them, can exhaust, so the camera is a black box they control by input and output.",
+  "links": [
+   "signature",
+   "unsaid",
+   "knobs"
+  ],
+  "lane": "O",
+  "opened": "primary text (English translation PDF, Reaktion edition) \u2014 https://lab404.com/3741/readings/flusser.pdf ; also https://sites.evergreen.edu/expphoto/wp-content/uploads/sites/293/2015/05/vilem-flusser-towards-a-philosophy-of-photography-OCR.pdf",
+  "claim_check": "corrected: the opened passage says the program has to be richer than photographers can exhaust, not that photos exhaust it; the intent to exhaust is stated for writers/photographers, and the word 'freedom' was in the passages I read only as freeing humans to play, so freedom as playing against was not checked in full",
+  "implication": "Each model is an apparatus with a program richer than any three-performer round; the score should ask performers to play against it (ban the habitual move) and expect the round to show only part of it."
+ },
+ {
+  "id": "manovich",
+  "label": "Variability, Manovich",
+  "year": "2001",
+  "thread": "diverge",
+  "detail": "Manovich lists five principles of new media (numerical representation, modularity, automation, variability, transcoding). Variability means a new media object is not fixed once and for all but can exist in different, potentially infinite versions, partly assembled automatically.",
+  "links": [
+   "divdec",
+   "signature",
+   "sampled"
+  ],
+  "lane": "O",
+  "opened": "author's site, Language of New Media text (summary and principle 4) \u2014 https://manovich.net/content/04-projects/172-language-of-new-media/language.pdf",
+  "claim_check": "confirmed (he adds these are general tendencies, not absolute laws)",
+  "implication": "Generated pages are the variability case: many versions per brief is normal, so the question is which differences are open decisions and which are the model's habit."
+ },
+ {
+  "id": "lucier",
+  "label": "Re-recording until the room remains, Lucier",
+  "year": "1969",
+  "thread": "observe",
+  "detail": "Lucier's score has the voice recorded and played back into the room again and again until the room's resonant frequencies reinforce themselves and speech is destroyed except rhythm. He says the process is played through air, so the room acts as a filter.",
+  "links": [
+   "capture",
+   "diagram",
+   "avgtaste"
+  ],
+  "lane": "O",
+  "opened": "score text (Media Art Net source text) and interview excerpt \u2014 http://www.medienkunstnetz.de/source-text/87/ ; https://zachpoff.com/pass-protected/Lucier--In_a_Room.pdf",
+  "claim_check": "confirmed (interview adds he used two Nagras and fifteen generations in the original; not checked against a second source)",
+  "implication": "Feeding a model's output back as the next input converges on the model's own resonances, so check chained or reused-example loops for exactly this drift."
+ },
+ {
+  "id": "ridler",
+  "label": "Dataset as artwork, Ridler",
+  "year": "2018",
+  "thread": "history",
+  "detail": "Ridler photographed ten thousand tulips over three months in the Netherlands and labelled them by hand, then used them as the dataset for Mosaic Virus. Showing the dataset as the artwork exposes the human choices in labels such as white versus pale pink.",
+  "links": [
+   "matpack",
+   "interview",
+   "prov"
+  ],
+  "lane": "O",
+  "opened": "artist's page and Design Museum entry \u2014 https://annaridler.com/works/myriad-tulips ; https://designmuseum.org/exhibitions/beazley-designs-of-the-year/digital-2019/myriad-tulips ; DAM text",
+  "claim_check": "confirmed (10,000 per Design Museum and her own text; her page also says she stopped when tulip season ended, not at a target number)",
+  "implication": "Her own-hand dataset is a model for the material pack: real, labelled, owned inputs shape the output more than an adjective list does, and the labelling choices should be shown."
+ },
+ {
+  "id": "parrish",
+  "label": "Language models and poetry, Parrish",
+  "year": "2021",
+  "thread": "same",
+  "detail": "Parrish argues that the only thing computers can write is poetry: model outputs fail the conditions of ordinary speech acts, so they are new form dealt with as a reality in itself. She separates writing poetry from writing a poem, which needs a person's intention.",
+  "links": [
+   "avgtaste",
+   "flatten",
+   "signature"
+  ],
+  "lane": "O",
+  "opened": "primary essay (revised version, posted 2021-08-13) \u2014 https://posts.decontextualize.com/language-models-poetry/ ; ELO 2021 abstract",
+  "claim_check": "narrower: the essay claims outputs are poetry (material), not that models are a poetic instrument; she says models aim at verisimilitude and a poet still has to invent new forms",
+  "implication": "Treat model output as material that a person arranges into a design; the arrangement and the stopping point are the human's, which fits the hand-and-provenance marks."
+ },
+ {
+  "id": "herndon",
+  "label": "Voice model as instrument, Herndon",
+  "year": "2019",
+  "thread": "human",
+  "detail": "Herndon's PROTO (2019) trained its AI voice Spawn in live Berlin sessions with hundreds of people singing call-and-response. Holly+ (2021) is a tool that returns uploaded audio sung in her voice, with a DAO set up to govern use and share proceeds.",
+  "links": [
+   "prov",
+   "monitor",
+   "yes"
+  ],
+  "lane": "O",
+  "opened": "Holly+ announcement by Herndon (paragraph.com), FADER and Pitchfork coverage, and a PROTO background page \u2014 https://paragraph.com/@holly-herndon/holly ; https://www.thefader.com/2021/07/14/holly-herndon-holly-plus ; https://signaltosong.com/archive/holly-herndon-proto-2019/",
+  "claim_check": "narrower: consent in the room applies to PROTO's training; Holly+ is her own voice under DAO governance. Open-sourcing the model was listed as a planned roadmap item (not done on the page I read), so 'open model' is unverified",
+  "implication": "Credit and governance can be built into how material is gathered, so the provenance register should record who agreed to what at collection, not after."
+ },
+ {
+  "id": "crouwel",
+  "label": "New Alphabet, Crouwel",
+  "year": "1967",
+  "thread": "level",
+  "detail": "Crouwel designed New Alphabet for cathode-ray-tube composing, using only horizontals, verticals and 45-degree angles on a 5 by 9 grid. He called it over the top and never meant to be used, a statement on new technology.",
+  "links": [
+   "plainuni",
+   "knobs",
+   "dirlevel"
+  ],
+  "lane": "O",
+  "opened": "MoMA collection entry and The Foundry specimen/page \u2014 https://www.moma.org/collection/works/139322 ; https://www.thefoundrytypes.com/fonts/new-alphabet/ ; Smithsonian catalogue record for the 1967 book",
+  "claim_check": "narrower: confirmed as a typeface shaped by CRT limits; sources differ on detail (MoMA says horizontal lines only, The Foundry says horizontals, verticals and 45-degree corners), and Crouwel meant it as a provocation, not a practical face",
+  "implication": "Designing to the medium's real limit is a way out of defaults, but it is a statement, not a product; the plain arm's restrictions may need the same labelling."
+ },
+ {
+  "id": "pico8",
+  "label": "Chosen limits, PICO-8",
+  "year": "2015",
+  "thread": "same",
+  "detail": "PICO-8's manual says its harsh limits were chosen to be fun and to give cartridges their own look and feel: 128x128 display, fixed 16 colours, 8192 code tokens, 32k carts. Demoscene size-limited intros were not checked.",
+  "links": [
+   "knobs",
+   "plainuni",
+   "libex"
+  ],
+  "lane": "O",
+  "opened": "official manual and product page \u2014 https://www.lexaloffle.com/dl/docs/pico-8_manual.html ; https://www.lexaloffle.com/pico-8.php",
+  "claim_check": "narrower: specs and the 'chosen limits give a particular look' intent are confirmed; the 2015 date and the demoscene 4K/64K intro claim were not on the pages I opened",
+  "implication": "Fixed limits (a score line fixed, a band, a token budget) produce a shared look by design; a limit chosen by the author is different from a shared default, so record who chose it."
+ }
+]

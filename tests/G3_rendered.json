@@ -1,0 +1,1915 @@
+{
+ "B0_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of 2 to 20",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   251,
+   251
+  ],
+  "V5": false
+ },
+ "B0_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 65.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Now with Friday reviews",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   250,
+   251,
+   248
+  ],
+  "V5": false
+ },
+ "B0_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for teams of 2 to 12",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B0_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   253,
+   248
+  ],
+  "V5": true
+ },
+ "B0_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B0_claude-haiku-5.5_5.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Iowan Old Style\", \"Palatino Linotype\", Palatino, serif",
+  "h1size": 65.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for teams of 2 to 12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "B0_claude-haiku-5.5_6.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Iowan Old Style\", \"Times New Roman\", serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   249,
+   245,
+   238
+  ],
+  "V5": true
+ },
+ "B0_claude-haiku-5.5_7.json": {
+  "has_h1": true,
+  "h1font": "ui-serif, Georgia, Cambria, \"Times New Roman\", serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   248,
+   243,
+   234
+  ],
+  "V5": true
+ },
+ "B0_claude-haiku-5.5_8.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, Georgia, serif",
+  "h1size": 60.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   251,
+   248,
+   242
+  ],
+  "V5": true
+ },
+ "B0_claude-haiku-5.5_9.json": {
+  "has_h1": true,
+  "h1font": "ui-serif, Georgia, \"Iowan Old Style\", \"Palatino Linotype\", serif",
+  "h1size": 68.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   242,
+   232
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "For teams of 2–12 people",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 92.16,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 88,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   247,
+   243,
+   234
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 58.88,
+  "V2": true,
+  "V3": true,
+  "V3t": "Monday planning, minus the meeting sprawl",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   242,
+   247,
+   243
+  ],
+  "V5": false
+ },
+ "B0_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   250,
+   246,
+   238
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_5.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, without the meeting marathon",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   230
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_6.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 66.56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning, together",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   250,
+   245,
+   236
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_7.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Built for teams of 3–12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   242,
+   233
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_8.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 71.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "For small teams of 2–12",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B0_glm-5.3-flashx_9.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 94.72,
+  "V2": true,
+  "V3": true,
+  "V3t": "Weekly planning for small teams",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   247,
+   242
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 66,
+  "V2": true,
+  "V3": true,
+  "V3t": "A better week starts together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   246,
+   248,
+   243
+  ],
+  "V5": false
+ },
+ "B0_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"SF Pro Rounded\", \"Segoe UI\", system-ui, -apple-system, sans-serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   247,
+   241
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 72.96,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   246,
+   241
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 69,
+  "V2": true,
+  "V3": true,
+  "V3t": "A little more in sync",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_5.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 73,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to plan together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   247,
+   241
+  ],
+  "V5": false
+ },
+ "B0_gpt-6-luna_6.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   248,
+   244
+  ],
+  "V5": false
+ },
+ "B0_gpt-6-luna_7.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 77,
+  "V2": true,
+  "V3": true,
+  "V3t": "A better week starts together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   244,
+   239
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_8.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 74,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to plan together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   239
+  ],
+  "V5": true
+ },
+ "B0_gpt-6-luna_9.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "A calmer way to work together",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "B1_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 56,
+  "V2": false,
+  "V3": true,
+  "V3t": "Plumbers in Leeds, for Leeds",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B1_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 57.6,
+  "V2": false,
+  "V3": true,
+  "V3t": "Family-run since 1994",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   250,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "B1_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 59.2,
+  "V2": false,
+  "V3": true,
+  "V3t": "Leeds plumbers, three generations strong",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   20,
+   38,
+   59
+  ],
+  "V5": false
+ },
+ "B1_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 54.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run plumbers in Leeds",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   16,
+   45,
+   65
+  ],
+  "V5": false
+ },
+ "B1_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 59.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run plumbers for Leeds homes",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B1_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 66.4,
+  "V2": false,
+  "V3": true,
+  "V3t": "Family-run since 1987 · Chapel Allerton, Leeds",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   239,
+   229
+  ],
+  "V5": true
+ },
+ "B1_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 74,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run since 1987",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B1_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 67.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run in Leeds since 1998",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "B1_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 68.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run since 1987",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B1_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 66.56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Family-run since 1987",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   243,
+   237,
+   225
+  ],
+  "V5": true
+ },
+ "B1_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Local people. Proper plumbing.",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   245,
+   239
+  ],
+  "V5": true
+ },
+ "B1_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "\"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 66,
+  "V2": true,
+  "V3": true,
+  "V3t": "Your local family plumbers",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   251,
+   250,
+   246
+  ],
+  "V5": true
+ },
+ "B1_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Good people. Proper plumbing.",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   23,
+   59,
+   53
+  ],
+  "V5": false
+ },
+ "B1_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 80.64,
+  "V2": true,
+  "V3": true,
+  "V3t": "Plumbing & heating in Leeds",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   245,
+   239
+  ],
+  "V5": true
+ },
+ "B1_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Good people. Good plumbing.",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   245,
+   239
+  ],
+  "V5": true
+ },
+ "B2_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Rounded MT Bold\", \"Trebuchet MS\", system-ui, sans-serif",
+  "h1size": 73.6,
+  "V2": false,
+  "V3": true,
+  "V3t": "Ages 2 to 12 · Hands-on science",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   248,
+   236
+  ],
+  "V5": true
+ },
+ "B2_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Segoe UI\", system-ui, -apple-system, sans-serif",
+  "h1size": 67.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Ages 2–12 · Open daily",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   29,
+   33,
+   79
+  ],
+  "V5": false
+ },
+ "B2_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Avenir Next\", \"Segoe UI\", system-ui, sans-serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "🔬 Ages 2–12 · Open 7 days a week",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   22,
+   25,
+   65
+  ],
+  "V5": false
+ },
+ "B2_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Avenir Next\", \"Segoe UI\", system-ui, sans-serif",
+  "h1size": 67.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Ages 0 to 12 · Open every day",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   249,
+   238
+  ],
+  "V5": true
+ },
+ "B2_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Segoe UI\", system-ui, sans-serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Children's Science Museum",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   46,
+   73,
+   110
+  ],
+  "V5": false
+ },
+ "B2_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "\"Baloo 2\", cursive",
+  "h1size": 83.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "🔬 Now open — Weekends & school holidays!",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   255,
+   246,
+   233
+  ],
+  "V5": true
+ },
+ "B2_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fredoka, sans-serif",
+  "h1size": 73.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Now open · Ages 2–12 (and curious grown-ups)",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   246,
+   233
+  ],
+  "V5": true
+ },
+ "B2_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "\"Baloo 2\", cursive",
+  "h1size": 89.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Now open · Ages 0–12 & their grown-ups",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   246,
+   233
+  ],
+  "V5": true
+ },
+ "B2_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Fredoka, sans-serif",
+  "h1size": 73.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "🔬 Now open — 4 new exhibits!",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   246,
+   233
+  ],
+  "V5": true
+ },
+ "B2_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "\"Baloo 2\", \"Noto Sans SC\", sans-serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "今日开馆 · 9:00 – 17:30",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   251,
+   244,
+   230
+  ],
+  "V5": true
+ },
+ "B2_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"Avenir Next\", Avenir, \"Segoe UI\", sans-serif",
+  "h1size": 76.8,
+  "V2": false,
+  "V3": true,
+  "V3t": "A hands-on science adventure",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   247,
+   239
+  ],
+  "V5": true
+ },
+ "B2_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "ui-rounded, \"Avenir Next\", Avenir, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 85.76,
+  "V2": true,
+  "V3": true,
+  "V3t": "A hands-on science museum",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   248,
+   247,
+   241
+  ],
+  "V5": true
+ },
+ "B2_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Avenir Next\", Avenir, system-ui, sans-serif",
+  "h1size": 81.92,
+  "V2": false,
+  "V3": true,
+  "V3t": "A hands-on science museum",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   249,
+   237
+  ],
+  "V5": true
+ },
+ "B2_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Avenir Next\", Avenir, system-ui, sans-serif",
+  "h1size": 76,
+  "V2": false,
+  "V3": true,
+  "V3t": "A little curiosity goes a long way",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   249,
+   238
+  ],
+  "V5": true
+ },
+ "B2_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "\"Trebuchet MS\", \"Avenir Next\", Avenir, system-ui, sans-serif",
+  "h1size": 85.76,
+  "V2": false,
+  "V3": true,
+  "V3t": "Curiosity lives here",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   249,
+   239
+  ],
+  "V5": true
+ },
+ "B3_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 66,
+  "V2": true,
+  "V3": true,
+  "V3t": "Native Iceberg writes and exactly-once Kafka ingest are now GA",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   11,
+   13,
+   18
+  ],
+  "V5": false
+ },
+ "B3_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Streaming ingest now GA, with native Iceberg reads",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   11,
+   13,
+   18
+  ],
+  "V5": false
+ },
+ "B3_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 70.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source · Apache 2.0",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   11,
+   13,
+   18
+  ],
+  "V5": false
+ },
+ "B3_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "Streaming CDC ingest is now generally available",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   11,
+   13,
+   18
+  ],
+  "V5": false
+ },
+ "B3_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source · Apache 2.0",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   11,
+   15,
+   20
+  ],
+  "V5": false
+ },
+ "B3_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, \"Times New Roman\", serif",
+  "h1size": 105.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "OPEN SOURCE · COLUMNAR OLAP · BUILT FOR DATA ENGINEERS",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   22,
+   19,
+   15
+  ],
+  "V5": false
+ },
+ "B3_glm-5.3-flashx_1.json": {
+  "has_h1": false,
+  "bg": [
+   14,
+   13,
+   11
+  ],
+  "V5": false
+ },
+ "B3_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Archivo, sans-serif",
+  "h1size": 32,
+  "V2": true,
+  "V3": true,
+  "V3t": "OPEN SOURCE · COLUMNAR · STREAMING · APACHE-2.0",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   242,
+   238,
+   227
+  ],
+  "V5": true
+ },
+ "B3_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Archivo, sans-serif",
+  "h1size": 92.16,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source · Apache-2.0 · v0.9.4",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   242,
+   239,
+   230
+  ],
+  "V5": true
+ },
+ "B3_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "\"Instrument Serif\", serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source · MIT · built for data engineers",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   11,
+   11,
+   9
+  ],
+  "V5": false
+ },
+ "B3_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open-source analytics database",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   16,
+   19,
+   17
+  ],
+  "V5": false
+ },
+ "B3_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source. Engineer approved.",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   16,
+   19,
+   16
+  ],
+  "V5": false
+ },
+ "B3_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 67.84,
+  "V2": true,
+  "V3": true,
+  "V3t": "The database built for your data stack",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   16,
+   20,
+   17
+  ],
+  "V5": false
+ },
+ "B3_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 76,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open-source analytical database",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   246,
+   247,
+   243
+  ],
+  "V5": false
+ },
+ "B3_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 70,
+  "V2": true,
+  "V3": true,
+  "V3t": "Open source. Built for the data layer.",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   247,
+   247,
+   242
+  ],
+  "V5": true
+ },
+ "B4_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, \"Times New Roman\", serif",
+  "h1size": 80,
+  "V2": true,
+  "V3": true,
+  "V3t": "Poetry · Small editions · Hand-finished",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   240,
+   230
+  ],
+  "V5": true
+ },
+ "B4_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, \"Times New Roman\", serif",
+  "h1size": 78.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Poetry · Small runs · Est. 2011",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   242,
+   234
+  ],
+  "V5": true
+ },
+ "B4_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, Georgia, \"Times New Roman\", serif",
+  "h1size": 83.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Small press · Est. 2014 · Four books a year",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   239,
+   228
+  ],
+  "V5": true
+ },
+ "B4_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, \"Book Antiqua\", Georgia, serif",
+  "h1size": 68,
+  "V2": false,
+  "V3": true,
+  "V3t": "Independent poetry · Est. 2014 · Four books a year",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B4_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "\"Iowan Old Style\", \"Palatino Linotype\", Palatino, Georgia, \"Times New Roman\", serif",
+  "h1size": 73.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Small books of poetry, made slowly",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   240,
+   230
+  ],
+  "V5": true
+ },
+ "B4_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "\"Cormorant Garamond\", Georgia, serif",
+  "h1size": 71.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Spring Catalogue — No. 27",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   240,
+   235,
+   226
+  ],
+  "V5": true
+ },
+ "B4_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, \"Noto Serif SC\", serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Independent Poetry Press — Since 2019",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   243,
+   238,
+   228
+  ],
+  "V5": true
+ },
+ "B4_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, Georgia, serif",
+  "h1size": 92.16,
+  "V2": true,
+  "V3": true,
+  "V3t": "Est. 2016 · Poetry Chapbooks & Broadside Editions",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   242,
+   237,
+   226
+  ],
+  "V5": true
+ },
+ "B4_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "\"Cormorant Garamond\", serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Est. 2019 · Three pamphlets a year · Providence, RI",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   244,
+   239,
+   230
+  ],
+  "V5": true
+ },
+ "B4_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "Est. 2019 · Providence, RI · Twelve poems per season",
+  "V4": false,
+  "V1": true,
+  "bg": [
+   246,
+   241,
+   231
+  ],
+  "V5": true
+ },
+ "B4_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 91,
+  "V2": true,
+  "V3": true,
+  "V3t": "Independent poetry, thoughtfully made",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "B4_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 89.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Independent poetry, made with care",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   245,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "B4_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 92.16,
+  "V2": true,
+  "V3": true,
+  "V3t": "A small press for lasting words",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   240,
+   231
+  ],
+  "V5": true
+ },
+ "B4_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 91,
+  "V2": true,
+  "V3": true,
+  "V3t": "A small press for the in-between",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   246,
+   242,
+   233
+  ],
+  "V5": true
+ },
+ "B4_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "A little room for poetry",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   244,
+   240,
+   231
+  ],
+  "V5": true
+ },
+ "B5_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 54.4,
+  "V2": false,
+  "V3": true,
+  "V3t": "No appointment needed",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   254,
+   254,
+   254
+  ],
+  "V5": false
+ },
+ "B5_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 54.4,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk-in sexual health care",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   251,
+   248,
+   243
+  ],
+  "V5": true
+ },
+ "B5_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 54.4,
+  "V2": false,
+  "V3": true,
+  "V3t": "Confidential care, no judgment",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B5_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 54.4,
+  "V2": false,
+  "V3": false,
+  "V3t": "",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B5_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Confidential · Judgment-free · Walk-in",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B5_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 71.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk-in sexual health clinic",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   243,
+   236
+  ],
+  "V5": true
+ },
+ "B5_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 72,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk-in sexual health clinic",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   250,
+   244,
+   233
+  ],
+  "V5": true
+ },
+ "B5_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 66.56,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk-ins welcome · No referral needed",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   250,
+   245,
+   238
+  ],
+  "V5": true
+ },
+ "B5_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 20,
+  "V2": false,
+  "V3": false,
+  "V3t": "",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   255,
+   255,
+   255
+  ],
+  "V5": false
+ },
+ "B5_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "Fraunces, serif",
+  "h1size": 68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk in today — no appointment needed",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   250,
+   246,
+   238
+  ],
+  "V5": true
+ },
+ "B5_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76.8,
+  "V2": false,
+  "V3": true,
+  "V3t": "Walk-in sexual health care",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   246,
+   239
+  ],
+  "V5": true
+ },
+ "B5_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 89.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Sexual health, without the stress",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   245,
+   239
+  ],
+  "V5": true
+ },
+ "B5_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Walk-in sexual health clinic",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   248,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "B5_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif",
+  "h1size": 81.92,
+  "V2": true,
+  "V3": true,
+  "V3t": "Sexual health, on your terms",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   248,
+   246,
+   240
+  ],
+  "V5": true
+ },
+ "B5_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Georgia, \"Times New Roman\", serif",
+  "h1size": 83.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Care without judgment",
+  "V4": true,
+  "V1": true,
+  "bg": [
+   247,
+   245,
+   239
+  ],
+  "V5": true
+ },
+ "B6_claude-haiku-5.5_0.json": {
+  "has_h1": true,
+  "h1font": "Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif",
+  "h1size": 115.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Skate shop · Lessons · Since 2011",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   14,
+   15,
+   17
+  ],
+  "V5": false
+ },
+ "B6_claude-haiku-5.5_1.json": {
+  "has_h1": true,
+  "h1font": "Impact, \"Arial Black\", \"Helvetica Neue\", sans-serif",
+  "h1size": 115.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Skate shop & school · Est. 2012",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   13,
+   14,
+   17
+  ],
+  "V5": false
+ },
+ "B6_claude-haiku-5.5_2.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", \"Helvetica Neue\", Impact, sans-serif",
+  "h1size": 104.96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Decks · Lessons · Crew",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   21,
+   21,
+   21
+  ],
+  "V5": false
+ },
+ "B6_claude-haiku-5.5_3.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", \"Helvetica Neue\", Impact, sans-serif",
+  "h1size": 76.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Skate shop & school · Est. 2011",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   17,
+   18,
+   20
+  ],
+  "V5": false
+ },
+ "B6_claude-haiku-5.5_4.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", \"Helvetica Neue\", Impact, sans-serif",
+  "h1size": 99.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Skate shop & school · Est. 2011",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   17,
+   18,
+   20
+  ],
+  "V5": false
+ },
+ "B6_glm-5.3-flashx_0.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Black\", \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 110,
+  "V2": true,
+  "V3": false,
+  "V3t": "",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   244,
+   240,
+   230
+  ],
+  "V5": true
+ },
+ "B6_glm-5.3-flashx_1.json": {
+  "has_h1": true,
+  "h1font": "\"Archivo Black\", sans-serif",
+  "h1size": 140.8,
+  "V2": true,
+  "V3": false,
+  "V3t": "",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   240,
+   235,
+   225
+  ],
+  "V5": true
+ },
+ "B6_glm-5.3-flashx_2.json": {
+  "has_h1": true,
+  "h1font": "\"Archivo Black\"",
+  "h1size": 115.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Skate shop · Lessons · Est. 2011",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   240,
+   237,
+   231
+  ],
+  "V5": true
+ },
+ "B6_glm-5.3-flashx_3.json": {
+  "has_h1": true,
+  "h1font": "Anton, sans-serif",
+  "h1size": 134.4,
+  "V2": true,
+  "V3": false,
+  "V3t": "",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   241,
+   238,
+   229
+  ],
+  "V5": true
+ },
+ "B6_glm-5.3-flashx_4.json": {
+  "has_h1": true,
+  "h1font": "\"Archivo Black\"",
+  "h1size": 128,
+  "V2": true,
+  "V3": false,
+  "V3t": "",
+  "V4": false,
+  "V1": false,
+  "bg": [
+   244,
+   240,
+   232
+  ],
+  "V5": true
+ },
+ "B6_gpt-6-luna_0.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Narrow\", \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 89.6,
+  "V2": true,
+  "V3": true,
+  "V3t": "Your neighborhood skate spot",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   244,
+   237
+  ],
+  "V5": true
+ },
+ "B6_gpt-6-luna_1.json": {
+  "has_h1": true,
+  "h1font": "\"Arial Narrow\", \"Helvetica Neue\", Arial, sans-serif",
+  "h1size": 96,
+  "V2": true,
+  "V3": true,
+  "V3t": "Independent skate shop · Est. 2014",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   245,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "B6_gpt-6-luna_2.json": {
+  "has_h1": true,
+  "h1font": "Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif",
+  "h1size": 108.8,
+  "V2": true,
+  "V3": true,
+  "V3t": "Your neighborhood skate shop",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   244,
+   240,
+   231
+  ],
+  "V5": true
+ },
+ "B6_gpt-6-luna_3.json": {
+  "has_h1": true,
+  "h1font": "Impact, \"Arial Narrow\", sans-serif",
+  "h1size": 115.2,
+  "V2": true,
+  "V3": true,
+  "V3t": "Your neighborhood skate shop · Est. 2012",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   244,
+   241,
+   232
+  ],
+  "V5": true
+ },
+ "B6_gpt-6-luna_4.json": {
+  "has_h1": true,
+  "h1font": "Arial, Helvetica, sans-serif",
+  "h1size": 103.68,
+  "V2": true,
+  "V3": true,
+  "V3t": "Your neighborhood skate shop",
+  "V4": true,
+  "V1": false,
+  "bg": [
+   244,
+   240,
+   232
+  ],
+  "V5": true
+ }
+}

@@ -1,0 +1,71 @@
+THREADS (use the key):
+  observe = Observe, don't trust the report
+  blind = Judge blind, lock it, then reveal
+  same = Sameness lives in the model and the setup
+  history = Specific context moves it, a label doesn't
+  level = Right direction so far, wrong level
+  diverge = Divergence shows some open decisions
+  human = Who does what, and who learns
+
+FINDINGS (id | thread | label | detail):
+  unsaid | same | Unsaid decisions get the same answer | One brief, 18 pages: product mock-up 18/18, label above the headline 16/18, pricing section 14/18, invented testimonials 11/18. Median 5 of 8 house-style habits; 8 human-designed sites 1.5. One brief only, so model and brief aren't separated.
+  matpack | history | Real material removes invented sections | A material pack plus 'no section without a source' took invented testimonials 11→0, made-up prices 13→0 and logo strips 6→0 of 18, but barely moved the look (median 3 of 8 habits).
+  namedef | history | Naming the defaults doesn't stop them | Listing this season's defaults with 'use only if needed' left the median at 4 of 8: naming helps judging, not making. All three moves together reached 1.
+  plainuni | same | Fewer defaults by going plain, a new uniform | The all-three arm hit median 1 by removing: 17 of 17 pages white, 13 with no accent, system fonts, no images. Human sites use their own typeface and a median of 236 images. A brand pack gave identity (brand type 18/18).
+  lookholds | same | The look holds without Claude in the loop | Bare brief, 54 pages, two non-Claude checkers: median 4 (Sol) and 5 (Kimi) of the 8 habits, the same as their counts on the original 18 pages (3.5 and 5); human sites 0–1. Pricing on 72–76% of pages. Claude Haiku is highest (6.5), but Qwen, DeepSeek, GLM, Gemini, Grok and Muse share the look; Nemotron and MiMo don't.
+  blindname | same | A blind namer finds the same look | Mistral, shown shuffled screenshots of unnamed sets A and B, named serif headline + italic word, copy left + product right, a label above the headline and a warm paper background, plus new ones (a paper-invoice mockup, a strip of made-up studios). Counted: AI median 6 of 15, human 0–1 (max 2). Haiku 8.9 ≈ DeepSeek 8.8.
+  whocounts | diverge | Visual habits depend on who counts | Countable habits agree across checkers (steps, serif, FAQ, pricing: κ 0.83–0.96). Visual ones don't: product screen κ 0.27, set-apart word 0.24, invoice mockup 0.24, colour bands 0.00. The namer's own eyeball counts ran high (handwritten notes ~15 vs 0 counted).
+  statesgap | diverge | The decision states never reached the boards | All five reviewers: no board let a line be fixed, band, open, refused or default. Decided Oct 21: boards set values; states are written on score lines in the Sketchbook.
+  capture | observe | Capture before claim | Record what each page actually did (screenshot, score items present, console errors) and show it before the performer's notes. Crafts move 1.
+  check2 | observe | Observed before notes | Check 2 filled a score-item table from rendered pages before opening any performer note. All three performers met the score; only the Wanderer went beyond it.
+  ground | observe | Debrief grounding 87/11/2 | Swarm debrief claims: 87% match, 11% misstatement, 2% fabrication, close to people replaying their own sessions (88/9/3). Blank personas fabricated 0; personas with sheets fabricated 12.
+  quote | observe | Quote or nothing | Every finding carries an exact string and step number. 97% of quotes were exact, but about 3 in 10 passing findings still overreach. findings.py rewrites 'shows' lines literally.
+  logfacts | observe | Facts from the log, agent writes the reading | Status is a typed word; the facts line is filled from the tool log; the agent writes only the interpretation.
+  card | observe | Moment card | Claim with a count, the frame before the peak, 3–5 panels, one verbatim line, a counter-case, our reading on its own line, a grounding flag.
+  freeze | observe | Freeze probe | At a random step, hide the screen and ask three fixed questions. Misses show what the model never took in, which a SUS score can't.
+  video | observe | Video for people, text for models | Video wins for people when the moment is a visible change, with a count and a second view, because the frame decides the verdict. Tutorial video made web agents worse.
+  blindfirst | blind | Blind, shuffled first reaction | One timestamped line per page before notes, names hidden, order random. A taste benchmark's preferred item sat in slot A 95.6% of the time.
+  swap | blind | Outcome swap: the reporter grades the ending | Same steps rated +0.83 higher when the trace ended 'completed'. Fix adopted: rate blind and lock, outcome revealed after as a separate fact.
+  rejudge | blind | Blind rejudge of pitches | Four model families judged pitches with authors hidden; they ranked their own pitch 7th–10th. Shows blind judging is cheap to run.
+  arena | blind | Arenas rank models, not briefs | Design Arena and LMArena vote blind on pairs but judge models. Nobody found uses blind judging on your own brief.
+  makers | blind | Judging alone drifts; makers agree | Reviewers agree near chance (kappa 0.08, 0.28); a third of feedback made performance worse; makers beat managers at forecasting others' ideas.
+  m56 | same | Model 56%, persona 0.9% (one situation) | Across 60 sessions the persona explained 0.9% of SUS variance, the model 56%, run-to-run noise 40%. Wording follows the model, not the persona.
+  diagram | same | Performers build the same parts | In 5 of 8 rounds all three performers built the same parts (Nike 4-page shop, 2-col checkout). Led to the 'Building the diagram?' check in Sketchbook v13.
+  libex | same | A Library example is argued with, not cloned | Copied planted features: 0.03 per plan without the example, 0.30 with it, 0.07 with a one-line warning. Half the plans that saw it argued with its flaw. The bigger pull was the models' own default: 17 of 30 picked the same palette with no example.
+  signature | same | Divergence is mostly each model's habit | 15 runs per model on 4 scores: within one model the commonest choice took 78% of runs; in 9 of 32 decisions each model had its own strong habit and they differed, so a three-performer round always shows a difference that is model identity, not an open line. Exact-match 'shared' fired 0 times in 106,200 simulated rounds.
+  swatch | same | Swatch the score | Run one performer five times on the same score. If its spread is close to the spread between performers, the score is the problem, not the cast. One hour; your pick for what to run first.
+  flatten | same | Simulated people flatten groups | Identity groups come out flattened and stereotyped; 'persona manifold collapse' on one model; LLM-written fiction homogeneous.
+  avgtaste | same | Models hold one averaged taste | Told 'it is 2023' or 'it is 2026', choices barely moved (67/53/47%). The model holds one taste, not a dated one.
+  knobs | same | Sameness fixed with knobs, not smarts | Swing knobs on the drum machine, paired constraints per performer: ban the habitual move, name the replacement. Warnings alone didn't reduce fixation.
+  allclaude | same | Three Claude designs agreed | All three channel designs agreed on the core, but all were Claude reading the same four framed files. The agreement may come from the score.
+  interview | history | Interviews beat demographics | Interview-grounded agents: 83% vs 74% demographics-only; still strong with 80% of the transcript cut. Nobody has published the label-plus-episode arm.
+  label10 | history | A label caps at ~10% | Persona variables explain at most ~10% of people's own answers; adding a role didn't raise accuracy across 162 roles.
+  dated | history | Dated quotes carry taste; the date doesn't | Linear-look bundle chosen 93% with early-2023 quotes, 0% with 2026 quotes. Recent taste can be carried today by dated reception, not by the date.
+  behav | history | Behavior history 28% vs descriptions 7–12% | Exa top-up: behavioral history carried far more person-level signal than written descriptions; demographics about 1.5%.
+  plainlines | history | Plain lines move it as much as quotes | Same content as dated quotes, as plain statements, or as prefer/avoid rules: lines swung choices 7–13 points more than quotes, rules most of all. The episode form added nothing measurable. A date plus a stance label moved the whole look too.
+  pscore | history | Persona as a score | Place first, Expects, Just before, Body line, three tiers (say unprompted / if asked / never volunteer). Resources and history, never class labels.
+  echo | history | Personas echo their sheet | Personas repeat their sheet's words (label echo 0.33 vs 0.10 blank) but their complaints don't differ (Jaccard 0.124 within vs 0.120 between).
+  still | history | A still just before the peak | 3–5 frames with the action between them written out may carry most of what a clip carries. A hypothesis to test.
+  dirlevel | level | Direction right, level wrong | Paired surveys got every effect's direction right but predicted 21% rejected vs 37% real. Chat simulators are polite in 99.84% of turns vs 4.71% for people.
+  goal | level | Agents are more goal-directed | Agents click with more purpose and detail than people. An A/B direction can match; absolute behavior doesn't.
+  swing | level | Swings to 0% where people split | Models can't hold proportions: they swing to 0% instead of '60% still like it'. Training would only help with calibration data.
+  aa | level | A/A: 10-point gap by chance 49% | Splitting identical runs in half, a SUS gap of 10+ points appears by chance in 49% of splits. Earlier A/B swarm results sit inside the noise.
+  standins | level | Built, not used | Everything since your last hands-on round has been tested by stand-ins only: Sketchbook v8–v33, canvas v31–v47. The stranger round is waiting on you.
+  divdec | diverge | Where performers diverge = decisions | The core Reas move. In the channel study, every divergence became a named decision in STATE.md 'Waiting on you'.
+  sampled | diverge | Sample disagreement flags ambiguity | ClarifyGPT detects ambiguity when sampled code disagrees. Prior tools show variants as a menu; none mine them for the questions they imply.
+  agreeno | diverge | Agreement doesn't prove clarity | Richter & Papadakis 2026: models settle on one wrong reading in up to 32% of tasks. Divergence can't be the only signal.
+  specgap | diverge | Restoring the spec fixes it | Two agents building one class: integration accuracy fell from 58% to 25% as spec detail dropped; restoring the spec fixed it; conflict reports added nothing.
+  diff | diverge | Show the diff on the score | For each performer, mark on the score what it added, dropped or invented. Crafts move 2.
+  plan | diverge | Plan first for risky scores | Each performer returns a rough layout and the questions it would ask before it builds. Sameness shows in the sketches.
+  subtract | human | Subtract, don't add a tenth pass | Three of five outside reviewers: the passes turned into an apparatus. You chose fix + subtract (Sketchbook v14).
+  prov | human | Hand + provenance on every part | Performer / edited by you / written by you / from Library, plus a placeholder register that blocks Ship. Rubens priced pictures by how much was his own hand.
+  rung | human | The lowest rung goes first | Inkers, copyists, drafters all went first, and we found no study that measures the pipeline afterwards. Move: a rung for juniors.
+  monitor | human | Monitor and stop, not approve each | Auto-approve and interrupts both rise with experience. Design visibility and a stop control, with reversibility marked.
+  oneq | human | One question, state in one file | At most one question per message as named options; state outside any chat; a message with no clear request gets a question, not a build.
+  yes | human | An agent designing its channel optimizes for yes | Measure questions closed and errors caught, not approval rate. You own the layout and the push reasons.
+
+EXAMPLE ENTRIES (match this voice and length):
+   ["hume_taste", "Few true judges, Hume", "1757", "human", "verified", "Hume says the standard of taste is the joint verdict of rare qualified judges: delicate sentiment, practice, comparison, freedom from prejudice and strong sense.", ["makers", "avgtaste"], "H"]
+   ["baxandall_period", "Period eye, Baxandall", "1972", "history", "scoped", "Baxandall ties how people see a picture to everyday experience in their society, such as gauging barrels; each person processes visual data with slightly different equipment, and within one society the differences are small.", ["behav", "dated", "interview"], "H"]
+   ["gombrich_schema", "Schema and correction, Gombrich", "1960", "same", "verified", "Gombrich argues makers start from an inherited schema and correct it, so making comes before matching, and the viewer adds a share of their own.", ["diagram", "libex", "avgtaste"], "H"]
+   ["muchnik_herding", "One random up-vote herds, Muchnik, Aral & Taylor", "2013", "blind", "verified", "In a randomized experiment on 101,281 comments, one artificial up-vote raised the first viewer's up-vote chance by 32% and final ratings by 25% (relative to control), while a down-vote was corrected by later users.", ["blindfirst", "swap", "makers"], "H"]

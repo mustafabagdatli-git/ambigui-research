@@ -1,0 +1,1 @@
+done 90 cost $0.775 Counter({('gpt-6-luna', 'stop'): 30, ('claude-haiku-5.5', 'stop'): 28, ('glm-5.3-flashx', 'stop'): 26, ('glm-5.3-flashx', 'length'): 4, ('claude-haiku-5.5', 'length'): 2})

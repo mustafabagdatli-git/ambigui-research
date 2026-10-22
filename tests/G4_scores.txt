@@ -1,0 +1,27 @@
+
+rendered checker vs gemini
+  V1: kappa +1.00 [+1.00, +1.00]  n=20  raw agreement 20/20
+  V2: kappa +0.61 [-0.07, +1.00]  n=20  raw agreement 18/20
+  V3: kappa +1.00 [+1.00, +1.00]  n=20  raw agreement 20/20
+  V4: kappa +1.00 [+1.00, +1.00]  n=20  raw agreement 20/20
+  V5: kappa +0.78 [+0.43, +1.00]  n=19  raw agreement 17/20
+
+human labels found for 20/20 pages
+
+YOU vs rendered checker
+  V1: kappa +0.90 [+0.69, +1.00]  n=20  raw agreement 19/20
+  V2: kappa +0.32 [-0.14, +1.00]  n=20  raw agreement 17/20
+  V3: kappa +1.00 [+1.00, +1.00]  n=20  raw agreement 20/20
+  V4: kappa +0.64 [+0.00, +1.00]  n=20  raw agreement 19/20
+  V5: kappa +0.55 [+0.12, +0.89]  n=20  raw agreement 16/20
+
+YOU vs gemini
+  V1: kappa +0.90 [+0.69, +1.00]  n=20  raw agreement 19/20
+  V2: kappa +0.32 [-0.15, +1.00]  n=20  raw agreement 17/20
+  V3: kappa +1.00 [+1.00, +1.00]  n=20  raw agreement 20/20
+  V4: kappa +0.64 [+0.00, +1.00]  n=20  raw agreement 19/20
+  V5: kappa +0.54 [+0.12, +0.88]  n=19  raw agreement 15/20
+
+P4a (checker kappa >= 0.6 on >=4 of 5): 3 of 5
+P4b (checker beats gemini on >=3 of 5): 1 of 5
+unsure counts: {'V1': 0, 'V2': 0, 'V3': 0, 'V4': 0, 'V5': 0}

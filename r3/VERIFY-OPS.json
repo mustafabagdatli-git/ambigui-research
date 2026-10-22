@@ -1,0 +1,408 @@
+[
+ {
+  "id": "remediation",
+  "status": "verified",
+  "detail": "The authors say media are understood by how they refashion earlier media. They call this remediation and pair two logics: immediacy (the medium tries to vanish) and hypermediacy (it shows itself). They treat both as practices of specific groups and times, not universal truths.",
+  "year": "1999",
+  "note": "Read the MIT Press chapter text: 'We do not claim ... universal aesthetic truths ... practices of specific groups in specific times'. Matches."
+ },
+ {
+  "id": "mcluhan",
+  "status": "verified",
+  "detail": "McLuhan writes that the message of any medium is the change of scale, pace or pattern it introduces into human affairs, whatever its content; the content of any medium is always another medium. The electric light is his example of a medium with no content.",
+  "year": "1964",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "greenberg",
+  "status": "verified",
+  "detail": "Greenberg says each art's proper area of competence coincides with what is unique to its medium, and for painting that was flatness alone. Modernism turned the old limits (flat surface, shape of the support, pigment) into things to acknowledge openly.",
+  "year": "1960",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "krauss",
+  "status": "scoped",
+  "detail": "Krauss defines a medium as a set of conventions derived from, but not identical with, the material conditions of a technical support, so a medium is not reduced to a physical object. Checked only in secondary excerpts.",
+  "year": "1999",
+  "note": "Only fragments on 'technical support' and 'conventions' found; the exact definition wording and the Greenberg-reading claim rest on a secondary source I did not reopen."
+ },
+ {
+  "id": "eno_studio",
+  "status": "verified",
+  "detail": "Eno says once tape had more tracks than a band needed, composition became additive: you arrive with a bare skeleton or nothing and build in the studio by adding and removing layers, working directly with sound with no transmission loss.",
+  "year": "1979",
+  "note": "Read the Downbeat text on enoweb: lecture at the 1979 New Music America; Downbeat printing date given only as 'probably 1979'. Matches."
+ },
+ {
+  "id": "eno_signature",
+  "status": "scoped",
+  "detail": "In a 19 December 1995 diary entry, printed in A Year with Swollen Appendices (1996), Eno says what is weird or ugly about a new medium will become its signature, citing CD distortion and 8-bit sound. He calls it the sound of failure.",
+  "year": "1996",
+  "note": "Read the diary entry on diariesofnote.com (reprint with copyright note). Original said 'sound of a medium failing'; the text says 'sound of failure'."
+ },
+ {
+  "id": "menkman",
+  "status": "verified",
+  "detail": "Menkman argues that the search for a noiseless channel is an ill-fated dogma and every improved medium keeps its own fingerprints of imperfection. She says glitch shows a technology's norms and what goes unsaid, and warns glitches turn into fashion.",
+  "year": "2010",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "kuleshov",
+  "status": "scoped",
+  "detail": "Prince and Hensley (1992) argued the classic Kuleshov result was never scientifically proven and the footage is lost. Mobbs et al. (2006) found context changed ratings of identical faces, with fMRI changes. Barratt et al. (2016) concluded some sort of effect exists.",
+  "year": "1992",
+  "note": "Read the Prince and Hensley abstract (it questions the evidence; its own replication result was not in the abstract, so that claim was dropped), Mobbs abstract and Barratt abstract."
+ },
+ {
+  "id": "albers",
+  "status": "verified",
+  "detail": "Albers teaches that one colour can be made to look different by its ground, and two different colours alike. He calls colour the most relative medium in art and says it deceives continually, so seeing must be learned by trial and error.",
+  "year": "1963",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "warde",
+  "status": "scoped",
+  "detail": "Warde argues that type well used is invisible, like a crystal goblet that reveals the wine; the reader should look through type, not at it. First given as a 1930 speech; printed as a pamphlet in 1932.",
+  "year": "1930",
+  "note": "Checked ODNB and UChicago Press excerpt. Dropped the 'visible craft is not objectionable' clause, which I did not see. Year moved to the 1930 speech."
+ },
+ {
+  "id": "flusser",
+  "status": "verified",
+  "detail": "Flusser says photographers play not with the camera but against it, creeping inside to bring out its hidden tricks. The program must be richer than any photographer, or all of them, can exhaust, so the camera is a black box they control by input and output.",
+  "year": "1983",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "manovich",
+  "status": "verified",
+  "detail": "Manovich lists five principles of new media (numerical representation, modularity, automation, variability, transcoding). Variability means a new media object is not fixed once and for all but can exist in different, potentially infinite versions, partly assembled automatically.",
+  "year": "2001",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "lucier",
+  "status": "scoped",
+  "detail": "Lucier's score has the voice recorded and played back into the room again and again until the room's resonant frequencies reinforce themselves and any semblance of speech, perhaps except rhythm, is destroyed. He adds that the signal goes through the air each time, so it is processed acoustically.",
+  "year": "1969",
+  "note": "Checked score text and interview PDF. 'The room acts as a filter' was the agent's paraphrase, not Lucier's words."
+ },
+ {
+  "id": "ridler",
+  "status": "verified",
+  "detail": "Ridler photographed ten thousand tulips over three months in the Netherlands and labelled them by hand, then used them as the dataset for Mosaic Virus. Showing the dataset as the artwork exposes the human choices in labels such as white versus pale pink.",
+  "year": "2018",
+  "note": "Artist's page and Digital Art Museum (ten thousand tulips, three months, Netherlands residency, hand labels, white vs pale pink) plus Design Museum. Matches."
+ },
+ {
+  "id": "parrish",
+  "status": "verified",
+  "detail": "Parrish argues that the only thing computers can write is poetry: model outputs fail the conditions of ordinary speech acts, so they are new form dealt with as a reality in itself. She separates writing poetry from writing a poem, which needs a person's intention.",
+  "year": "2021",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "herndon",
+  "status": "verified",
+  "detail": "Herndon's PROTO (2019) trained its AI voice Spawn in live Berlin sessions with hundreds of people singing call-and-response. Holly+ (2021) is a tool that returns uploaded audio sung in her voice, with a DAO set up to govern use and share proceeds.",
+  "year": "2019",
+  "note": "Checked BBC, Dropbox interview, Signal to Song quoting the PROTO Bandcamp ('hundreds of people', Berlin) and FADER/Pitchfork/Rolling Stone on Holly+ (July 2021, DAO). Matches."
+ },
+ {
+  "id": "crouwel",
+  "status": "scoped",
+  "detail": "Crouwel designed New Alphabet for cathode-ray-tube composing, using horizontals, verticals and 45-degree angles on a 5 by 9 grid, per The Foundry. He called it over the top and never meant to be really used, a statement on new technology.",
+  "year": "1967",
+  "note": "Checked MoMA entry and The Foundry. Wikipedia gives the grid as 5 by 7, so the grid size varies by source."
+ },
+ {
+  "id": "pico8",
+  "status": "verified",
+  "detail": "PICO-8's manual says its harsh limits were chosen to be fun and to give cartridges their own look and feel: 128x128 display, fixed 16 colours, 8192 code tokens, 32k carts. Demoscene size-limited intros were not checked.",
+  "year": "2015",
+  "note": "Official manual: harsh limits chosen to be fun, 128x128, 16 colours, 32k carts, 8192 tokens. 2015 release year not on the manual page."
+ },
+ {
+  "id": "gerstner",
+  "status": "verified",
+  "detail": "Gerstner's subtitle is 'Instead of solutions for problems, programmes for solutions': no problem has one absolute solution, so describing the problem is part of the solution and designing means picking determining elements and combining them.",
+  "year": "1964",
+  "note": "Subtitle and claims confirmed in the English text. One source dates the book 1963, others 1964; kept 1964."
+ },
+ {
+  "id": "goodman_lang",
+  "status": "verified",
+  "detail": "In Goodman's account a musical work is the class of performances that comply with the score, but only where the notation is strict: a single wrong note makes it another work, while tempo and cadenza stay open to the performer.",
+  "year": "1968",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "iser",
+  "status": "corrected",
+  "detail": "Iser holds that no tale can be told in its entirety, so every text has gaps; each reader fills them in their own way, which lets one text support several realizations that no single reading exhausts.",
+  "year": "1972",
+  "note": "'The Reading Process' (no tale can be told in its entirety; gaps filled differently by each reader) is New Literary History 1972, not 1971; 1971 is Iser's separate Aspects of Narrative essay. Quote checked in full-text PDF."
+ },
+ {
+  "id": "ingarden",
+  "status": "verified",
+  "detail": "Ingarden sees a literary work as a schema with places of indeterminacy, such as what a character had for breakfast; readers partly fill these in, giving many legitimate concretizations, some more faithful to the work than others.",
+  "year": "1931",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "keats",
+  "status": "verified",
+  "detail": "Keats names negative capability as being 'in uncertainties, Mysteries, doubts, without any irritable reaching after fact & reason', a quality he credits to Shakespeare and denies to Coleridge, who could not rest in half-knowledge.",
+  "year": "1817",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "meyer_style",
+  "status": "verified",
+  "detail": "Meyer defines style as a replication of patterning, in behaviour or its artifacts, that results from a series of choices made within some set of constraints; most constraints are learned, not newly invented by whoever uses them.",
+  "year": "1989",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "moholy",
+  "status": "verified",
+  "detail": "MoMA says an enamel factory in Weimar made the three Telephone Pictures to the artist's instructions, and that Moholy-Nagy later wrote that he ordered them by telephone; the three share one composition at large, medium and small scale.",
+  "year": "1923",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "halprin",
+  "status": "scoped",
+  "detail": "The RSVP Cycles name four parts: Resources, Scores, Valuaction and Performance, usable interchangeably. The method grew out of the Halprin workshops, which brought together dancers, architects, designers and artists and used loosely structured 'open' scores.",
+  "year": "1969",
+  "note": "Checked the Columbia GSAPP exhibition page. 'Scores run from open to closed' was not on it, so removed."
+ },
+ {
+  "id": "molnar",
+  "status": "scoped",
+  "detail": "From 1959 Molnar used a method she called machine imaginaire to make combinatory images. Her '1% disorder' works, one dated 1976, add strictly limited disorder to square order. The Pera Museum ties 1% disorder to her 1970s computer system.",
+  "year": "1976",
+  "note": "Checked MNB Arts and Culture and Pera Museum pages. Removed 'as if she were a computer' and the 'dose small enough' gloss, which I did not see. Year set to the 1976 work."
+ },
+ {
+  "id": "queneau_ex",
+  "status": "verified",
+  "detail": "Exercises in Style retells one unexceptional bus incident and a later button-advice scene in ninety-nine styles, so content stays fixed and only the manner moves.",
+  "year": "1947",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "zorn_cobra",
+  "status": "scoped",
+  "detail": "In Cobra, players call cues by hand signal and a prompter relays them with cue cards. Each card names a kind of change (pool, duos, cut), not the music, which players improvise. Zorn never published the rules.",
+  "year": "1984",
+  "note": "Checked two Cobra cue sheets/workshop notes. 'Accepts or declines' not found; removed. Year 1984 per both."
+ },
+ {
+  "id": "conduction",
+  "status": "scoped",
+  "detail": "Morris began his numbered Conduction series in 1985; Thompson began Soundpainting in 1974. Both are gesture systems for steering improvisers live: the conductor signs, the ensemble responds, the conductor answers with more signs. Soundpainting passed 200 gestures in about ten years.",
+  "year": "1974",
+  "note": "Checked Eskildsen review, soundpainting.com history and conduction.us. The original blurred the two start dates; 1974 is Soundpainting's."
+ },
+ {
+  "id": "commedia",
+  "status": "corrected",
+  "detail": "A canovaccio lists only acts and scenes, leaving detail to the actors' improvisation and their lazzi (jokes and gags). Scala's 1611 collection, Il Teatro delle Favole Rappresentative, holds 50 scenarios, not 100.",
+  "year": "1611",
+  "note": "Original said 100 scenarios; the 1611 title page and catalogues say fifty days/50 scenarios. Canovaccio wording checked on Wikipedia; Scala via HathiTrust, Source Library, Routledge abstract."
+ },
+ {
+  "id": "partimento",
+  "status": "verified",
+  "detail": "Gjerdingen describes galant music as a seamless chain of stock phrases, or schemata, such as the Romanesca and the Prinner, each defined by melody, bass and metric pattern, and ties them to the Neapolitan partimento teaching tradition.",
+  "year": "2007",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "conddesign",
+  "status": "verified",
+  "detail": "The Conditional Design manifesto says the process is the product and that rules are constraints: 'avoid arbitrary randomness', and 'difference should have a reason'.",
+  "year": "2008",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "doit",
+  "status": "verified",
+  "detail": "do it began in 1993 in Paris from a talk between Obrist, Boltanski and Lavier, starting with twelve artist instructions; by 2013 it held instructions from over 400 artists, realised differently at each venue.",
+  "year": "1993",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "fluxus",
+  "status": "verified",
+  "detail": "Brecht reduced the event score to a bare minimum of language, sometimes one word, and left interpretation to the person enacting it; Ono's Grapefruit collects such instructions, one asking people to touch each other.",
+  "year": "1964",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "johnstone",
+  "status": "verified",
+  "detail": "Johnstone calls anything an actor does an offer, which can be accepted or blocked; scenes build when both accept, and he says improvisers should assume an offer was already made.",
+  "year": "1979",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "renga",
+  "status": "scoped",
+  "detail": "A 1980 London Review of Books piece notes that renga poets built one work under strict rules for linking verses, with no folding of paper, while the Surrealist exquisite corpse hid each contribution. The Academy of American Poets glossary was not opened.",
+  "year": "1980",
+  "note": "Read Christopher Reid's LRB review. The poets.org 'one hard rule' clause was not checked."
+ },
+ {
+  "id": "venturi",
+  "status": "scoped",
+  "detail": "Venturi writes 'I prefer both-and to either-or', wants richness of meaning rather than clarity of meaning, likes the ambiguous over the articulated, and calls for the difficult unity of inclusion over the easy unity of exclusion.",
+  "year": "1966",
+  "note": "Checked MoMA sample PDF and an excerpt PDF. 'Less is a bore' was not in the passages I saw, so it is removed."
+ },
+ {
+  "id": "aravena",
+  "status": "verified",
+  "detail": "Elemental was given about $7,500 per unit for 93 families on their own Iquique site. It built one concrete segment of each house beside an empty segment of equal size, and residents finished the rest as their incomes allowed.",
+  "year": "2004",
+  "note": "MoMA Small Scale Big Change page: $7,500 per unit, 93 units, Iquique, built segment beside an empty one, residents finished. MoMA dates the project 2003-05; kept 2004."
+ },
+ {
+  "id": "brand_pace",
+  "status": "scoped",
+  "detail": "Brand expanded Duffy's four layers to six shearing layers (site, structure, skin, services, space plan, stuff) in How Buildings Learn (1994). His pace layers, from a 1999 book, run fashion, commerce, infrastructure, governance, culture, nature; fast layers innovate, slow ones stabilize.",
+  "year": "1994",
+  "note": "Checked Brand's JoDS essay and Long Now pages. The pace layers date from 1996 diagram/1999 book, not the 1994 book. 'Buildings tear at themselves' not checked."
+ },
+ {
+  "id": "supernormal",
+  "status": "verified",
+  "detail": "Morrison says Super Normal began as a noticing that some mostly anonymous objects outperform others in long everyday use; he calls the Super Normal object the result of long evolution of everyday forms, and a certain lack of noticeability a requirement.",
+  "year": "2006",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "mullerb",
+  "status": "scoped",
+  "detail": "Muller-Brockmann calls the grid an ordering system and a practical working instrument for solving visual problems with greater speed and confidence. He ties its use to a will to cultivate objectivity instead of subjectivity.",
+  "year": "1981",
+  "note": "Checked archive.org full text of Grid Systems. Could not find the 'clarity and credibility' claim; removed. 1981 date not checked."
+ },
+ {
+  "id": "vignelli",
+  "status": "scoped",
+  "detail": "Vignelli's 1991 School of Visual Arts exhibition showed years of work in only four typefaces: Garamond, Bodoni, Century Expanded and Helvetica, to show that it is not the type but what you do with it that counts (The Vignelli Canon, 2010).",
+  "year": "2010",
+  "note": "Checked Fonts In Use, Museo Bodoniano and an SVA course page quoting the Canon; dates the show Feb-Mar 1991. Dropped the 'discipline' quote, which I did not find. RIT PDF not opened."
+ },
+ {
+  "id": "dynid",
+  "status": "scoped",
+  "detail": "MIT Media Lab's 2010 identity, by E Roon Kang with TheGreenEyl (ICON and Pentagram credit Richard The), is an algorithm giving over 40,000 logos, one per community member, under rules that keep it coherent. Sagmeister's 2007 Casa da Musica identity has six building profiles and 17 planes.",
+  "year": "2010",
+  "note": "Checked Kang's page, TheGreenEyl, ICON, Pentagram, Cooper Hewitt. Sources disagree on 2010 vs 2011 and on credits; Cooper Hewitt credits Matthias Ernstberger as designer under Sagmeister."
+ },
+ {
+  "id": "suits",
+  "status": "verified",
+  "detail": "Suits defines playing a game as 'the voluntary attempt to overcome unnecessary obstacles'. The long form has a goal, rules that forbid the more efficient means, and a lusory attitude: accepting the rules just because they make the activity possible.",
+  "year": "1978",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "caillois",
+  "status": "verified",
+  "detail": "Caillois sorts games into agon (competition), alea (chance), mimicry (role) and ilinx (vertigo). He places them between paidia, spontaneous play, and ludus, play bound by explicit rules. French edition 1958, English 1961.",
+  "year": "1958",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "costikyan",
+  "status": "scoped",
+  "detail": "Costikyan argues games need uncertainty to hold interest and lists eleven forms, among them performative, solver's, randomness, analytic complexity, hidden information and narrative anticipation. Checked against reviews and a book guide, not the book.",
+  "year": "2013",
+  "note": "Eleven forms confirmed by Leonardo review and a book guide; list matches. Dropped 'most games combine two', which I could not find."
+ },
+ {
+  "id": "nomic",
+  "status": "verified",
+  "detail": "Suber's Nomic is a game in which changing the rules is a move. It has an initial set of immutable and mutable rules, and an immutable rule can be changed only after it is transmuted into a mutable one; first published in Scientific American, June 1982.",
+  "year": "1982",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "akrich",
+  "status": "verified",
+  "detail": "Akrich says designers inscribe their picture of users and the world into an object as a 'script'. Users may not take the part, or may define quite different roles; de-scription is analysing that gap between imagined and real user.",
+  "year": "1992",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "bricoleur",
+  "status": "scoped",
+  "detail": "Levi-Strauss says the bricoleur does many tasks but makes do with 'whatever is at hand', a finite, heterogeneous stock, where the engineer subordinates each task to tools and materials procured for the project.",
+  "year": "1962",
+  "note": "Quotes confirmed in two secondary quotations of The Savage Mind. Dropped 'he admits the engineer also questions his means' and 'kept because it may come in handy' (that is Baker and Nelson), neither found."
+ },
+ {
+  "id": "fox",
+  "status": "verified",
+  "detail": "Fox, observing medical students at Cornell, described three kinds of uncertainty: incomplete mastery of existing knowledge, limits of medical knowledge, and the difficulty of telling the two apart. Students developed ways of coping with it.",
+  "year": "1957",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "horvitz",
+  "status": "scoped",
+  "detail": "Horvitz's CHI 1999 paper sets out principles for mixing automation with direct manipulation, including reasoning about uncertainty over the user's goals and weighing costs and benefits. His LookOut system uses two thresholds, one for dialog and one for action. The count of twelve was not re-checked.",
+  "year": "1999",
+  "note": "Read the paper's expected-utility and two-threshold section. The 'twelve principles' count and exact list were not re-read."
+ },
+ {
+  "id": "amershi",
+  "status": "verified",
+  "detail": "Amershi and colleagues propose 18 guidelines for human-AI interaction, refined through several rounds of evaluation, including a user study in which 49 design practitioners tested them on 20 AI-infused products.",
+  "year": "2019",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "klein_team",
+  "status": "verified",
+  "detail": "Klein and colleagues say joint activity needs four things: a Basic Compact to work together, mutual predictability, mutual directability and common ground. The Compact must be continuously renewed, and anyone dropping out must signal it.",
+  "year": "2004",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "stigmergy",
+  "status": "verified",
+  "detail": "Grassé coined stigmergy in 1959 for insects coordinating through what earlier work left behind. Heylighen defines it as indirect coordination in which the trace of an action left on a medium stimulates the next action, with no planning or direct messages.",
+  "year": "2016",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "blackboard",
+  "status": "verified",
+  "detail": "In Hearsay-II, independent knowledge sources communicate through a global database, the blackboard, where each posts hypotheses with credibility ratings at levels such as word and syllable. A hypothesis can trigger other sources.",
+  "year": "1980",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "lerman",
+  "status": "verified",
+  "detail": "Lerman devised the process in 1990: responders state meaning, the artist asks questions, responders ask neutral questions, then give opinions only with the artist's permission ('I have an opinion about ___, would you like to hear it?').",
+  "year": "1990",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ },
+ {
+  "id": "braintrust",
+  "status": "verified",
+  "detail": "Catmull says the Braintrust is made of people who understand storytelling and has no authority: the director need not follow any suggestion. Its notes aim to surface the true causes of problems, not to demand a remedy.",
+  "year": "2014",
+  "note": "Opened a primary or solid secondary source and checked each element; no change."
+ }
+]

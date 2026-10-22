@@ -1,0 +1,17 @@
+LANE Q — Sketches, alternatives and measures
+goel | Vinod Goel, Sketches of Thought (1995) | Ill-structured freehand sketches support lateral transformations; drafting-tool sketches reduce them.
+buxton | Bill Buxton, Sketching User Experiences (2007) | Sketches are quick, plentiful, ambiguous, minimal detail; suggest and explore rather than confirm.
+tohidi | Tohidi, Buxton, Baecker & Sellen, Getting the right design and the design right (CHI 2006) | Single design rated higher and criticised less than same design among three; 0/36 single-condition users rejected; 3/12 multiple did.
+dow_parallel | Dow et al., Parallel prototyping (TOCHI 2010) | Parallel beat serial on click-through and expert ratings; more divergent; experienced designers less divergent.
+stiny | George Stiny, Shape: Talking about Seeing and Doing (2006); Stiny & Gips shape grammars (1972) | Ambiguity/emergent shapes (seeing anew) essential to design computation.
+koning | Koning & Eizenberg, The language of the prairie: Frank Lloyd Wright's prairie houses (1981) | Shape grammar that captures and generates a style.
+lawson | Bryan Lawson, How Designers Think | Constraint model: generators (designer, client, user, legislator), internal/external, radical/practical/formal/symbolic.
+dorst_cross | Dorst & Cross, Creativity in the design process: co-evolution of problem–solution (Design Studies 2001) | Problem and solution spaces co-evolve; creative event bridges them.
+gtheory | Generalizability theory (Cronbach, Gleser, Nanda & Rajaratnam 1972) | Decompose score variance across facets (raters, occasions); D-study projects reliability for designs with more raters/occasions.
+mapelites | Mouret & Clune, Illuminating search spaces by mapping elites (2015) | Quality-diversity: keep the best solution per cell of a behaviour-descriptor grid.
+vendi | Friedman & Dieng, The Vendi Score (2022/23) | Diversity metric: exponential of entropy of eigenvalues of a similarity matrix.
+verbalized | Zhang et al., Verbalized Sampling (2025) | Typicality bias in preference data drives mode collapse; asking for a distribution with probabilities raises creative-writing diversity 1.6–2.1x; more capable models benefit more.
+semantic_entropy | Kuhn, Gal & Farquhar 2023; Farquhar et al. Nature 2024 | Cluster sampled answers by meaning; entropy over meaning clusters detects confabulation/uncertainty.
+ambient | Min et al. AmbigQA (2020); Liu et al. "We're Afraid Language Models Aren't Modeling Ambiguity" AmbiEnt (2023) | Benchmarks for whether models recognise/handle multiple readings; report GPT-4 disambiguation rate.
+hekkert | Hekkert, Snelders & van Wieringen, Most advanced yet acceptable (BJP 2003) | Typicality and novelty jointly predict preference and suppress each other.
+west_potts | West & Potts, Base models beat aligned models at randomness and creativity (2025) | Aligned models prefer "7", become predictable in games, favour pleasant over original; benchmark score anticorrelates.

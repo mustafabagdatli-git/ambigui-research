@@ -1,0 +1,125 @@
+<title>House Look Labels</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{--bg:#f4f6f7;--panel:#ffffff;--fg:#14191c;--mute:#5b666c;--line:#d9dfe2;--pool:#0092b3;--pool-ink:#ffffff;--yes:#0092b3;--no:#3d464b;--uns:#8a6d00;--chip:#e9eef0}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1416;--panel:#172024;--fg:#e6ecee;--mute:#93a1a7;--line:#2a363b;--pool:#27b4d4;--pool-ink:#04161c;--yes:#27b4d4;--no:#aab6bb;--uns:#e0bf4a;--chip:#1f2a2f;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#0f1416;--panel:#172024;--fg:#e6ecee;--mute:#93a1a7;--line:#2a363b;--pool:#27b4d4;--pool-ink:#04161c;--yes:#27b4d4;--no:#aab6bb;--uns:#e0bf4a;--chip:#1f2a2f;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 "IBM Plex Sans",system-ui,sans-serif}
+.wrap{max-width:1180px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:8px 16px}
+h1{font-size:20px;font-weight:600;margin:0;text-wrap:balance}
+.sub{color:var(--mute);margin:0;max-width:68ch}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;letter-spacing:.02em}
+.status{color:var(--mute)}
+.bar{height:4px;background:var(--line);border-radius:2px;overflow:hidden}.bar i{display:block;height:100%;background:var(--pool);width:0;transition:width .2s}
+.dots{display:flex;flex-wrap:wrap;gap:6px}
+.dots button{font:500 12px "IBM Plex Mono",monospace;min-width:38px;padding:5px 0;border:1px solid var(--line);background:var(--panel);color:var(--mute);border-radius:4px;cursor:pointer}
+.dots button.done{background:var(--chip);color:var(--fg)}
+.dots button.cur{border-color:var(--pool);color:var(--pool);box-shadow:inset 0 0 0 1px var(--pool)}
+main{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:860px){main{grid-template-columns:1fr}}
+.shot{background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow:hidden;min-width:0}
+.shot .cap{display:flex;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--line)}
+.shot img{display:block;width:100%;height:auto;aspect-ratio:1280/800;max-width:100%}
+@media (min-width:861px){.shot{position:sticky;top:max(12px,env(safe-area-inset-top,0px))}}
+.qs{display:flex;flex-direction:column;gap:10px;min-width:0}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.q h2{margin:0;font-size:15px;font-weight:600;display:flex;gap:8px;align-items:baseline}
+.q h2 .k{color:var(--mute)}
+.q p{margin:0;color:var(--mute);font-size:13.5px}
+.opts{display:flex;gap:6px}
+.opts button{flex:1;font:500 13px "IBM Plex Sans",sans-serif;padding:7px 0;border:1px solid var(--line);border-radius:4px;background:transparent;color:var(--fg);cursor:pointer}
+.opts button[aria-pressed="true"][data-v="yes"]{background:var(--yes);border-color:var(--yes);color:var(--pool-ink)}
+.opts button[aria-pressed="true"][data-v="no"]{background:var(--no);border-color:var(--no);color:var(--panel)}
+.opts button[aria-pressed="true"][data-v="unsure"]{border-color:var(--uns);color:var(--uns);box-shadow:inset 0 0 0 1px var(--uns)}
+.nav{display:flex;gap:8px;flex-wrap:wrap}
+.nav button{font:500 14px "IBM Plex Sans",sans-serif;padding:9px 16px;border-radius:4px;border:1px solid var(--line);background:var(--panel);color:var(--fg);cursor:pointer}
+.nav button.primary{background:var(--pool);border-color:var(--pool);color:var(--pool-ink)}
+.nav button:disabled{opacity:.4;cursor:default}
+.note{font-size:13px;color:var(--mute)}
+.warn{border-left:3px solid var(--uns);padding:8px 12px;background:var(--panel)}
+details{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px 14px}
+summary{cursor:pointer;font-weight:500}
+details p{color:var(--mute);margin:8px 0 0;max-width:72ch}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>House look: blind labels</h1>
+      <p class="sub">20 landing pages, first screen only. No model or brief is named. For each page, answer five yes/no questions about what you see. Your answers are the ground truth for the checker and for a vision model.</p>
+    </div>
+    <span class="mono status" id="status">connecting…</span>
+  </header>
+  <div class="bar"><i id="prog"></i></div>
+  <div class="dots" id="dots"></div>
+  <div class="warn" id="warn" hidden></div>
+  <main>
+    <section class="shot" id="shot">
+      <div class="cap mono"><span id="pid">p01</span><span class="status">1280 × 800 · first screen</span></div>
+      <img id="img" alt="Screenshot of the landing page's first screen">
+    </section>
+    <section class="qs">
+      <div id="qs" class="qs"></div>
+      <div class="nav">
+        <button id="prev">← Previous</button>
+        <button id="next" class="primary">Next →</button>
+      </div>
+      <p class="note mono">Keys: 1–5 pick a question · Y / N / U answer it · ← → move between pages</p>
+    </section>
+  </main>
+  <details>
+    <summary>How to judge</summary>
+    <p>Judge only what's visible in the screenshot. Don't guess what's below the fold. Answer "unsure" when it really is a toss-up; it counts as no answer, not as half. Each answer saves as soon as you click it, and you can change it later.</p>
+    <p>Headline means the largest text that states what the page is about, usually the H1.</p>
+  </details>
+</div>
+
+<script>
+const IDS=Array.from({length:20},(_,i)=>"p"+String(i+1).padStart(2,"0"));
+const Q=[
+ ["V1","Serif headline","The main headline is set in a serif typeface (letters have small strokes at their ends, as in Georgia or Times)."],
+ ["V2","Set-apart word","Part of the headline — a word or phrase — is styled differently from the rest: italic, another colour, another font, an underline, or a gradient."],
+ ["V3","Small label above the headline","A small piece of text sits just above the headline: uppercase, letter-spaced, or inside a pill or badge."],
+ ["V4","Text left, visual right","The headline and copy sit on the left, with a large visual on the right (image, illustration, product mock-up or card)."],
+ ["V5","Warm off-white background","The main page background is a warm off-white: cream, paper or beige. Not pure white, cool grey, a colour, or dark."]
+];
+let cur=0,focusQ=0,labels={},db=null,uid=null;
+try{labels=JSON.parse(localStorage.getItem("hl-labels")||"{}")}catch(e){labels={}}
+const $=id=>document.getElementById(id);
+function saveLocal(){try{localStorage.setItem("hl-labels",JSON.stringify(labels))}catch(e){}}
+function complete(p){const l=labels[p];return l&&Q.every(([k])=>l[k])}
+function render(){
+  const p=IDS[cur];$("pid").textContent=p;$("img").src="shots/"+p+".jpg";
+  const n=IDS.filter(complete).length;$("prog").style.width=(n/20*100)+"%";
+  $("dots").innerHTML="";IDS.forEach((id,i)=>{const b=document.createElement("button");b.textContent=id;b.className=(complete(id)?"done ":"")+(i===cur?"cur":"");b.onclick=()=>{cur=i;focusQ=0;render()};$("dots").appendChild(b)});
+  const l=labels[p]||{};$("qs").innerHTML="";
+  Q.forEach(([k,t,d],qi)=>{const box=document.createElement("div");box.className="q";if(qi===focusQ)box.style.borderColor="var(--pool)";
+    const h=document.createElement("h2");const kk=document.createElement("span");kk.className="k mono";kk.textContent=String(qi+1);h.append(kk,document.createTextNode(" "+t));
+    const pp=document.createElement("p");pp.textContent=d;const o=document.createElement("div");o.className="opts";
+    [["yes","Yes"],["no","No"],["unsure","Unsure"]].forEach(([v,lab])=>{const b=document.createElement("button");b.dataset.v=v;b.textContent=lab;b.setAttribute("aria-pressed",l[k]===v?"true":"false");b.onclick=()=>{focusQ=qi;answer(k,v)};o.appendChild(b)});
+    box.append(h,pp,o);$("qs").appendChild(box)});
+  $("prev").disabled=cur===0;$("next").textContent=cur===19?"Done":"Next →";
+  $("status").textContent=n+" of 20 pages complete"+(db?" · saving to the page":" · saving in this browser only");
+}
+async function answer(k,v){
+  const p=IDS[cur];labels[p]=Object.assign({},labels[p],{[k]:v,at:new Date().toISOString()});saveLocal();
+  if(focusQ<4&&labels[p][Q[focusQ][0]])focusQ++;render();
+  if(db){try{await db.doc("labels/"+p).set(Object.assign({},labels[p],uid?{by:uid}:{}))}catch(e){warn("Couldn't save "+p+" to the page ("+(e&&e.code||"error")+"). It's kept in this browser; tell Claude.")}}
+}
+function warn(t){$("warn").hidden=false;$("warn").textContent=t}
+$("prev").onclick=()=>{if(cur>0){cur--;focusQ=0;render()}};
+$("next").onclick=()=>{if(cur<19){cur++;focusQ=0;render();window.scrollTo({top:0})}else{const m=IDS.filter(p=>!complete(p));if(m.length){cur=IDS.indexOf(m[0]);focusQ=0;render();warn("Still open: "+m.join(", "))}else{$("warn").hidden=false;$("warn").textContent="All 20 pages labelled. Tell Claude you're done."}}};
+document.addEventListener("keydown",e=>{if(e.metaKey||e.ctrlKey||e.altKey)return;const k=e.key.toLowerCase();
+  if(k>="1"&&k<="5"){focusQ=+k-1;render()}else if(k==="y"||k==="n"||k==="u"){answer(Q[focusQ][0],{y:"yes",n:"no",u:"unsure"}[k])}
+  else if(e.key==="ArrowRight")$("next").click();else if(e.key==="ArrowLeft")$("prev").click()});
+render();
+(async()=>{
+  try{db=await window.claude?.use("db");const u=await window.claude?.use("user");if(u){try{uid=await u.id()}catch(e){}}}catch(e){db=null}
+  if(!db){render();warn("This view can't save to the page, so answers stay in this browser only. Open the page signed in to claude.ai to save them.");return}
+  try{const s=await db.collection("labels").get();s.docs.forEach(d=>{const x=d.data();if(x)labels[d.id]=Object.assign({},labels[d.id],x)});saveLocal()}catch(e){}
+  render();
+})();
+</script>

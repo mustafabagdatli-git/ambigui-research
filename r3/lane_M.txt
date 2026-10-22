@@ -1,0 +1,17 @@
+LANE M — Constraint as a method
+stokes | Patricia Stokes, Creativity from Constraints (2005; Am. Psych. 2001 Monet paper) | Paired constraints: one precludes the reliable solution, one promotes a novel substitute; "free to do anything, most of us do what's worked best."
+oulipo | Oulipo (Queneau, Le Lionnais, Perec, La Disparition) and the clinamen | Writers adopt formal constraints ("rats who build the labyrinth they plan to escape"); the clinamen is a deliberate, sanctioned deviation from one's own constraint.
+elster | Jon Elster, Ulysses Unbound (2000), part on constraints in art | Self-imposed vs imposed vs invented constraints in art; why "less is more."
+stravinsky | Stravinsky, Poetics of Music (1942) | "The more constraints one imposes, the more one frees oneself of the chains that shackle the spirit."
+obstructions | Lars von Trier & Jørgen Leth, The Five Obstructions (2003) | One director sets another a series of constraints, each chosen after seeing the previous remake.
+dogme95 | Dogme 95 "Vow of Chastity" | A manifesto of ten filmmaking rules (handheld, location only, no added music, etc.).
+oblique | Brian Eno & Peter Schmidt, Oblique Strategies (1975) | Deck of cards with lateral prompts drawn when work is stuck.
+boden | Margaret Boden, The Creative Mind (1990) | Combinational, exploratory, transformational creativity; transforming means altering/dropping a constraint that defines the conceptual space.
+sellier_dahl | Sellier & Dahl, Focus! Creative success is enjoyed through restricted choice (JMR 2011) | Experienced knitters/crafters more creative with restricted input choice, but everyone felt more creative with more choice.
+kulkarni | Kulkarni, Dow & Klemmer, Early and repeated exposure to examples improves creative work (2012) | Examples raise conformity whenever shown; early/repeated exposure improves creativity ratings, late exposure doesn't.
+ward_si | Thomas Ward, Structured imagination (Cognitive Psychology 1994) | People imagining animals from another galaxy reproduce Earth-animal structure (path of least resistance).
+geneplore | Finke, Ward & Smith, Creative Cognition (1992), Geneplore model | Generate preinventive structures, then explore/interpret them; ambiguity of preinventive forms aids discovery.
+shuhari | Shu-ha-ri (Japanese martial arts / tea learning stages) | First obey the form, then break it, then leave it.
+linmo | Chinese copying practice (linmo) and Xie He's Six Principles (6th c.) | Transmission by copying models is one of the six principles of painting.
+rasa | Rasa theory, Natyashastra | The performance is specified by the emotional flavour (rasa) it should evoke, not only its form.
+rainer_no | Yvonne Rainer, "No Manifesto" (1965) | A list of refusals ("No to spectacle. No to virtuosity...").
